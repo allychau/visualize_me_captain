@@ -1,0 +1,1337 @@
+Law Id,State,Title,Text,Enacted Date,Amended Date,Recent?,Sequence Number,Type,Agency,Significant Update Date,Expired Date,Archived Date,Repealed Date,Topic,Technology Categories,Incentive Categories,Regulation Categories,User Categories,References
+288,US,Clean Cities Coalition Network,"The mission of Clean Cities Coalition Network is to foster the economic,
+environmental, and energy security of the United States by working
+locally to advance affordable, domestic transportation fuels and
+technologies. Nearly 100 volunteer coalitions carry out this mission by
+developing public/private partnerships to promote alternative and
+renewable fuels, idle-reduction measures, fuel economy, improvements,
+and emerging transportation technologies. The Clean Cities Coalition
+Network provides information about financial opportunities, coordinates
+technical assistance projects, updates and maintains databases and
+websites, and publishes technical and informational materials. For more
+information, see the [Clean Cities Coalition
+Network](https://cleancities.energy.gov/) website.
+",,,false,21,Programs,U.S. Department of Energy,,,,,"",AFTMKTCONV|BIOD|ETH|ELEC|EFFEC|HEV|HY|IR|NG|NEVS|PHEV|LPG,GNT|OTHER,"",STATION|AFP|PURCH|MAN|FLEET|GOV|IND,""
+325,US,Ports Initiative,"The U.S. Environmental Protection Agency\'s (EPA) Ports Initiative is an
+incentive-based program designed to reduce emissions by encouraging port
+authorities and terminal operators to retrofit and replace older diesel
+engines with new technologies and use cleaner fuels. EPA\'s [National
+Clean Diesel Campaign](http://www.epa.gov/cleandiesel/) offers funding
+to port authorities and public entities to help them overcome barriers
+that impede the adoption of cleaner diesel technologies and strategies.
+For more information, see the [Ports
+Initiative](https://www.epa.gov/ports-initiative) website.
+",,,false,34,Programs,U.S. Environmental Protection Agency,,,,,"",BIOD|ELEC|HEV|HY|NG|PHEV|LPG,GNT|OTHER,"",FLEET|GOV,""
+4241,CA,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - SMUD,"The Sacramento Municipal Utility District (SMUD) offers a discounted
+rate to residential customers for electricity used to charge PEVs. For
+more information, see the SMUD [Time-of-Day
+Rate](https://www.smud.org/en/Rate-Information/Time-of-Day-rates/Time-of-Day-5-8pm-Rate)
+website.
+",,,false,149,Utility/Private Incentives,"",2018-11-14 16:18:22 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+4688,OR,Alternative Fuel Vehicle Acquisition and Fuel Use Requirements,"All state agencies must purchase or lease zero-emission vehicles (ZEVs),
+including all-electric, plug-in hybrid electric, or hydrogen fuel cell
+vehicles, for at least 25% of new state light-duty vehicles to the
+maximum extent possible.
+
+If ZEVs are not feasible, the state agency may purchase or lease AFVs
+and use alternative fuels to operate those vehicles, except in regions
+where it is not economically or logistically possible to fuel an AFV.
+Each state agency must develop and report a greenhouse gas reduction
+baseline and annual reduction targets to the Oregon Department of
+Administrative Services (DAS). Reports to DAS must include the number of
+purchases or leases of ZEVs, AFVs, and AFV conversions and the quantity
+of each type of alternative fuel used annually by state agency fleets.
+By September 15, 2020, DAS must develop a ZEV procurement plan to reduce
+costs for state agency ZEV purchases.
+
+(Reference [Executive
+Order](http://www.oregon.gov/gov/admin/pages/executive-orders.aspx)
+20-04, 2020, and [Oregon Revised
+Statutes](https://www.oregonlegislature.gov/) 283.327, 283.337, and
+267.030)
+",2005-06-15 00:00:00 UTC,2020-03-10 00:00:00 UTC,false,100,Laws and Regulations,"",2020-04-23 00:21:30 UTC,,,,"",BIOD|ETH|ELEC|HY|NG|PHEV|LPG,"",REQ|CCEINIT,GOV,http://governor.oregon.gov/Gov/exec_orders.shtml|https://www.oregonlegislature.gov/|http://www.oregon.gov/gov/admin/pages/executive-orders.aspx|http://www.oregon.gov/gov/admin/pages/executive-orders.aspx
+5681,CA,Alternative Fuel and Vehicle Policy Development,"The California Energy Commission (CEC) must prepare and submit an
+Integrated Energy Policy Report (IEPR) to the governor on a biannual
+basis. The IEPR provides an overview of major energy trends and issues
+facing the state, including those related to transportation fuels,
+technologies, and infrastructure. The IEPR also examines potential
+effects of alternative fuels use, vehicle efficiency improvements, and
+shifts in transportation modes on public health and safety, the economy,
+resources, the environment, and energy security. The IEPR's primary
+purpose is to develop energy policies that conserve resources, protect
+the environment, ensure energy reliability, enhance the state's economy,
+and protect public health and safety. For the current IEPR, see the CEC
+[California's Energy Policy](http://www.energy.ca.gov/energypolicy/)
+website.
+
+As of November 1, 2015, and every four years thereafter, the CEC must
+also include in the IEPR strategies to maximize the benefits of natural
+gas in various sectors. This includes the use of natural gas as a
+transportation fuel. (Reference [California Public Resources
+Code](http://www.oal.ca.gov/) 25302 and 25303.5)
+",2013-10-11 00:00:00 UTC,,false,275,Laws and Regulations,"",,,,,"",BIOD|ETH|ELEC|HEV|HY|NG|PHEV|LPG,"",CCEINIT,OTHER,http://www.legislature.ca.gov/|http://www.oal.ca.gov/
+6065,VA,State Energy Plan,"The Department of Mines, Minerals and Energy (DMME) is responsible for
+creating the Virginia Energy Plan (Plan) to assess the commonwealth\'s
+primary energy sources and recommends actions to meet state energy
+goals. The Plan includes policies to promote alternative fuel and
+efficient vehicle use, encourage efficient driving techniques, and
+reduce vehicle miles traveled. The DMME must submit the Plan to the
+governor, the State Corporation Commission, and the General Assembly by
+October 1 of each year following the election of a new governor. For
+more information, see the [Virginia Energy
+Plan](https://dmme.virginia.gov/DE/VirginiaEnergyPlan.shtml) website.
+
+(Reference [Virginia Code](http://lis.virginia.gov/000/src.htm) 67-101
+and 67-102)
+",,2014-04-14 00:00:00 UTC,false,95,Laws and Regulations,"",2014-11-21 20:30:40 UTC,,,,"",BIOD|ETH|ELEC|EFFEC|NG|PHEV,"",CCEINIT,OTHER,http://lis.virginia.gov/000/src.htm|http://virginiageneralassembly.gov/
+6142,CA,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - LADWP,"The Los Angeles Department of Water and Power (LADWP) offers a \$0.025
+per kilowatt-hour discount for electricity used to charge PEVs during
+off-peak times. Residential customers who install a separate time-of-use
+meter panel will also receive a \$250 credit. For more information, see
+the LADWP [Electric Vehicle
+Incentives](https://www.ladwp.com/ladwp/faces/wcnav_externalId/r-gg-EVincentives?_adf.ctrl-state=il6iu2y7z_34&_afrLoop=203033140060675&_afrWindowMode=0&_afrWindowId=kfolzdw9d_1#%40%3F_afrWindowId%3Dkfolzdw9d_1%26_afrLoop%3D203033140060675%26_afrWindowMode%3D0%26_adf.ctrl-state%3Dkfolzdw9d_25)
+website.
+",,,false,140,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|IND,""
+6143,CA,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - SCE,"Southern California Edison (SCE) offers a discounted rate to customers
+for electricity used to charge PEVs. Two rate schedules are available
+for PEV charging during on- and off-peak hours. For more information,
+see the SCE [Electric Vehicle
+Plans](https://www.sce.com/residential/rates/electric-vehicle-plans)
+website.
+",,,false,145,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",IND,""
+6416,HI,Clean Transportation Promotion,"The state of Hawaii has signed a memorandum of understanding (MOU) with
+the U.S. Department of Energy to collaborate to produce 70% of the
+state's energy needs from energy-efficient and renewable sources by 2030
+and 100% of the state's energy needs from energy-efficient and renewable
+sources by 2045. This effort is part of the Hawaii Clean Energy
+Initiative. The goals of the partnership include defining the structural
+transformation required to transition the state to a clean
+energy-dominated economy; demonstrating and fostering innovation in the
+use of clean energy, including alternative fuels and advanced vehicle
+technologies; creating opportunities for the widespread distribution of
+clean energy benefits; establishing an open learning model for other
+states and entities to adopt; and building a workforce with
+cross-cutting skills to support a clean energy economy in the state. For
+more information, see the
+[MOU](http://www.hawaiicleanenergyinitiative.org/storage/pdfs/HI-DOE_MOU_9.15.14.pdf)
+and [Hawaii Clean Energy
+Initiative](http://www.hawaiicleanenergyinitiative.org/) website.
+",2008-01-28 00:00:00 UTC,,false,65,Laws and Regulations,"",2015-07-10 14:58:14 UTC,,,,"",BIOD|ETH|ELEC|HEV|HY|NG|PHEV|LPG,"",CCEINIT,OTHER,""
+6489,CA,Plug-In Electric Vehicle (PEV) and Compressed Natural Gas (CNG) Rate Reduction - PG&E,"Pacific Gas & Electric (PG&E) offers discounted residential time-of-use
+rates for electricity used for PEV charging during off-peak hours.
+Discounted rates are also available for CNG or uncompressed natural gas
+used in vehicle home fueling appliances. For more information, see the
+PG&E [Electric Vehicle Rate
+Plans](https://www.pge.com/en_US/residential/rate-plans/rate-plan-options/electric-vehicle-base-plan/electric-vehicle-base-plan.page?)
+and [CNG for
+Vehicles](http://www.pge.com/myhome/environment/pge/cleanair/naturalgasvehicles/rates/)
+websites.
+",,,false,152,Utility/Private Incentives,"",,,,,"",ELEC|NG|PHEV,OTHER,"",IND,""
+6606,OR,Clean Transportation Fuel Standards,"The Oregon Department of Environmental Quality (DEQ) administers the
+Oregon Clean Fuels Program (Program), which requires fuel producers and
+importers to register, keep records of, and report the volumes and
+carbon intensities of the fuels they provide in Oregon. Phase 2 of the
+Program, implemented in 2016, requires fuel suppliers to reduce the
+carbon content of transportation fuels.
+
+In 2020, a new goal was implemented to reduce the carbon content of
+transportation fuels by 20% below 2015 levels by 2030, and 25% below
+2015 levels by 2035.
+
+DEQ must conduct rulemaking for the Program to support greater plug-in
+electric vehicle (PEV) adoption. DEQ must also develop a method to
+aggregate and monetize all eligible PEV credits in the Program to assist
+in achieving the state goal of 50,000 registered PEVs in Oregon by 2020.
+For more information, see the DEQ [Oregon Clean Fuels
+Program](http://www.oregon.gov/deq/aq/programs/Pages/Clean-Fuels.aspx)
+website.
+
+(Reference [Executive
+Order](http://www.oregon.gov/gov/admin/pages/executive-orders.aspx)
+20-04, 2020, [Oregon Revised
+Statutes](https://www.oregonlegislature.gov/) 468A.266, and [Oregon
+Administrative
+Rules](http://sos.oregon.gov/archives/Pages/oregon_administrative_rules.aspx)
+340-253)
+",2009-07-22 00:00:00 UTC,2020-03-10 00:00:00 UTC,false,70,Laws and Regulations,"",2020-04-23 00:24:40 UTC,,,,"",BIOD|ETH|ELEC|HY|NG|PHEV|LPG,"",CCEINIT|STD,OTHER,http://www.leg.state.or.us/ors/home.htm|http://sos.oregon.gov/archives/Pages/oregon_administrative_rules.aspx|http://www.oregon.gov/gov/admin/pages/executive-orders.aspx|http://www.oregon.gov/gov/admin/pages/executive-orders.aspx
+6614,CA,Plug-In Electric Vehicle (PEV) and Natural Gas Infrastructure Charging Rate Reduction - SDG&E,"San Diego Gas & Electric (SDG&E) offers three PEV Time-of-Use (TOU)
+rates to customers, using a single meter or requiring the installation
+of a second meter. Lower natural gas rates are available to customers
+who own a natural gas vehicle (NGV) and use a qualified compressed
+natural gas fueling appliance at home. For more information about rates,
+see the SDG&E [EV
+Plans](https://www.sdge.com/residential/pricing-plans/about-our-pricing-plans/electric-vehicle-plans)
+and [NGV
+Rates](http://regarchive.sdge.com/tm2/pdf/GAS_GAS-SCHEDS_G-NGV.pdf)
+websites.
+",,,false,153,Utility/Private Incentives,"",,,,,"",ELEC|NG|PHEV,OTHER,"",STATION|IND,""
+8160,CA,Low Emission Truck and Bus Purchase Vouchers,"Through the Hybrid and Zero Emission Truck and Bus Voucher Incentive
+Project (HVIP) and Low NOx Engine Incentives, the California Air
+Resources Board provides vouchers to eligible fleets to reduce the
+incremental cost of qualified electric, hybrid, or natural gas trucks
+and buses at the time of purchase. Vouchers are available on a
+first-come, first-served basis and range from \$2,000 to \$315,000. Only
+fleets that operate vehicles in California are eligible. Voucher amounts
+vary depending on whether the vehicles are located in a disadvantaged
+community. For more information, including a list of qualified vehicles
+and other requirements, see the [HVIP](http://www.californiahvip.org/)
+website.
+",2010-02-01 00:00:00 UTC,,false,10,State Incentives,"",2018-08-23 20:32:57 UTC,,,,"",ELEC|HEV|NG|PHEV,OTHER|RBATE,"",FLEET,""
+9216,MI,Plug-In Electric Vehicle Charging Rates - DTE Energy,"DTE Energy offers two rate options to qualified residential customers
+for charging PEVs. The PEV time-of-use rate is available to customers
+using Level 2 electric vehicle supply equipment and requires a separate
+meter, which DTE provides. The flat rate option is \$46.28 per month for
+each PEV. For rate information, including how to qualify, see the DTE
+Energy [PEV
+Rates](https://newlook.dteenergy.com/wps/wcm/connect/dte-web/home/service-request/residential/electric/pev/pev-res-rate-plans)
+website.
+",2010-05-01 00:00:00 UTC,,false,50,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|IND,""
+9272,IN,Plug-In Electric Vehicle (PEV) Charging Rates - Indianapolis Power & Light,"The Indianapolis Power & Light Co (IPL) offers special PEV charging
+rates, including year-round time-of-use based options, for residential
+and business customers who own a licensed PEV. Customers who are
+considering purchasing Level 2 electric vehicle supply equipment should
+contact IPL to discuss the benefits and requirements of participating in
+the program. Restrictions apply. For more information, see the [IPL
+Electric Vehicle
+Charging](https://www.iplpower.com/Business/Programs_and_Services/Electric_Vehicle_Charging_and_Rates/)
+website.
+",,,false,80,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|FLEET|IND,""
+9372,GA,Plug-In Electric Vehicle Charging Rate Incentive - Georgia Power,"Georgia Power offers a time-of-use electricity rate for residential
+customers who own a PEV. Eligible customers must own a smart charger
+capable of separately metering charger usage. For more information, see
+the Georgia Power [Electric
+Vehicles](https://www.georgiapower.com/residential/billing-and-rate-plans/pricing-and-rate-plans/plug-in-ev.html)
+website.
+",,,false,55,Utility/Private Incentives,"",2020-05-11 19:10:17 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+9374,AL,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - Alabama Power,"Alabama Power offers a time-of-use (TOU) rate to business customers to
+charge fleet PEVs. Alabama Power also offers a TOU rate to residential
+customers that own a PEV. To be eligible, both business and residential
+customers must separately meter electricity used for PEV charging. For
+more information, see the Alabama Power [Business Rates and
+Pricing](https://www.alabamapower.com/business/rates-and-pricing.html)
+and [Residential Time Advantage
+Rates](https://www.alabamapower.com/residential/residential-pricing-and-rates/time-advantage-rates/energy-rates.html)
+websites.
+",,,false,20,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|FLEET|IND,""
+9404,HI,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - Hawaiian Electric Company,"Hawaiian Electric Company and its subsidiaries, Maui Electric Company
+and Hawaii Electric Light Company, offer time-of-use (TOU) rates for
+commercial customers with electric vehicle supply equipment and electric
+bus fleet facilities. The TOU rates are available to customers on Oahu,
+Molokai, Maui, and Hawaii Island. Hawaiian Electric also offers a TOU
+rate for customers who charge their PEV at Hawaii Electric's publicly
+available direct current (DC) fast stations. For more information, see
+the [Hawaiian Electric
+Vehicles](https://www.hawaiianelectric.com/clean-energy-hawaii/electric-vehicles)
+website.
+",,,false,15,Utility/Private Incentives,"",2018-08-09 15:52:54 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|FLEET,""
+9412,NV,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - NV Energy,"Nevada Energy (NV Energy) offers discounted electricity rates to
+residential and commercial customers in the northern and southern
+service territories who charge PEVs during off-peak hours. For more
+information, see the NV Energy [Electric
+Vehicles](https://www.nvenergy.com/account-services/energy-pricing-plans/electric-vehicle)
+website.
+",2011-07-01 00:00:00 UTC,,false,20,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|FLEET|MUD|IND,""
+9693,MI,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - Consumers Energy,"Consumers Energy offers a special time-of-use rate option for PEV
+owners. For more information, see the Consumers Energy [PEV Rate
+Options](https://www.consumersenergy.com/residential/rates/electric-rates-and-programs/rate-plan-options/electric-vehicle-rate-options)
+website.
+",,,false,45,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+9774,IL,Smart Grid Infrastructure Development and Support,"The Illinois Science and Energy Innovation Trust (Trust) will provide
+financial and technical support to public and private entities within
+the state for programs and projects that support, encourage, or utilize
+innovative technologies and methods to modernize the state's electric
+grid. Technologies may include advanced electricity storage and
+peak-shaving technologies, such as plug-in electric vehicles (PEVs) or
+devices that allow PEVs to engage in smart grid functions. The Trust
+also offers assistance for standards development for communication and
+interoperability of appliances and equipment connected to the electric
+grid. Electric utilities may voluntarily commit to investments in smart
+grid advanced metering infrastructure deployment. Participating
+utilities must consult with the Smart Grid Advisory Council and file a
+Smart Grid Advanced Metering Infrastructure Deployment Plan with the
+Illinois Commerce Commission. (Reference 220 [Illinois Compiled
+Statutes](http://www.ilga.gov/legislation/ilcs/ilcs.asp) 5/16-108.5
+through 108.7)
+",2011-10-31 00:00:00 UTC,,false,70,State Incentives,"",,,,,"",ELEC|PHEV,GNT|LOANS|OTHER,"",STATION|MAN|OTHER,""
+10414,MN,Plug-In Electric Vehicle (PEV) Charging Rate Reduction and EVSE Rebate - Dakota Electric Association,"Dakota Electric offers a time-of-use (TOU) rate to members with PEVs
+enrolled in the ChargeWise program. To be eligible for the TOU rate, a
+ChargeWise circuit is required.
+
+Dakota Electric also offers a rebate of up to \$500 for the installation
+of Level 1 or Level 2 electric vehicle supply equipment (EVSE).
+
+For more information, visit the Dakota Electric
+[ChargeWise](https://www.dakotaelectric.com/member-services/programs-rebates/for-your-home/electric-vehicle-charging/)
+website.
+",,,false,43,Utility/Private Incentives,"",,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+11101,NH,State Energy Strategy Development,"The New Hampshire Office of Energy Planning (Office), in consultation
+with the New Hampshire Energy Advisory Council, prepared a 10-year
+energy strategy for the state that addresses the impact of
+transportation policies and programs on electricity energy needs in the
+state. Strategy recommendations include enabling and encouraging
+adoption of plug-in electric vehicles and reducing unnecessary idling.
+The Office will review and update the strategy triennially. For more
+information, including the final strategy, visit the [Energy Strategy
+Revision](https://www.nh.gov/osi/energy/programs/energy-strategy-revision.htm)
+website. (Reference [New Hampshire Revised
+Statutes](http://www.gencourt.state.nh.us/rsa/html/indexes/default.html)
+4:E1)
+",2013-06-26 00:00:00 UTC,,false,70,Laws and Regulations,"",2014-09-08 13:54:38 UTC,,,,"",AFTMKTCONV|BIOD|ETH|ELEC|EFFEC|HY|IR|NG|NEVS|PHEV|LPG,"",CCEINIT,OTHER,http://www.gencourt.state.nh.us/rsa/html/indexes/default.html
+11523,RI,State Agency Coordination to Address Climate Change,"The Rhode Island Executive Climate Change Coordinating Council (EC4) was
+established to coordinate efforts between state agencies to reduce
+greenhouse gas (GHG) emissions. The Council will pursue GHG emissions
+reductions of 10% below 1990 levels by 2020, 45% below 1990 levels by
+2035, and 80% below 1990 levels by 2050. With assistance from the
+Council, state agencies will develop programs to encourage state
+employees to reduce vehicle miles traveled and use public transportation
+when available. The Council will also work with municipalities to
+encourage sustainability; identify federal, state, and private funding
+opportunities that can be leveraged to reduce emissions in Rhode Island;
+and develop GHG emissions reduction strategies. The Council submitted [a
+plan](http://climatechange.ri.gov/documents/riggerr16.pdf) in December
+2016 with suggested strategies for GHG emissions reduction activities to
+the governor. (Reference [Rhode Island General
+Laws](http://webserver.rilin.state.ri.us/Statutes/) 42-6.2)
+",2014-07-02 00:00:00 UTC,,false,31,Laws and Regulations,"",2014-09-29 22:55:33 UTC,,,,"",AFTMKTCONV|BIOD|ETH|ELEC|EFFEC|HEV|HY|IR|NG|NEVS|OTHER|PHEV|LPG,"",AIRQEMISSIONS|CCEINIT,GOV,http://webserver.rilin.state.ri.us/legislation/|http://webserver.rilin.state.ri.us/Statutes/
+11552,US,"Low and Zero Emission Public Transportation Research, Demonstration, and Deployment Funding","Financial assistance is available to local, state, and federal
+government entities; public transportation providers; private and
+non-profit organizations; and higher education institutions for
+research, demonstration, and deployment projects involving low or zero
+emission public transportation vehicles. Funding opportunities include
+the [Public Transportation Innovation
+Program](https://www.transit.dot.gov/funding/grants/public-transportation-innovation-5312)
+and the [Low or No Emission (Low-No) Vehicle
+Program](https://www.transit.dot.gov/funding/grants/low-or-no-emission-vehicle-program-5339c).
+Eligible vehicles must be designated for public transportation use and
+significantly reduce energy consumption or harmful emissions compared to
+a comparable standard vehicle. Funding is available through fiscal year
+2020 (verified December 2018), but is subject to congressional
+appropriations thereafter. For more information, see the [FAST Act
+Section
+5312](https://www.transit.dot.gov/sites/fta.dot.gov/files/docs/5312_Public_Transportation_Innovation_(Research)_Fact_Sheet.pdf)
+fact sheet and the
+[MAP-21](https://www.transit.dot.gov/regulations-and-guidance/legislation/map-21/map-21)
+website. (Reference [Public
+Law](https://www.congress.gov/public-laws/113th-congress) 113-159,
+[Public Law](https://www.congress.gov/public-laws/114th-congress)
+114-94, 49 [U.S. Code](https://www.govinfo.gov/) 5312, and 49 [U.S.
+Code](https://www.govinfo.gov/) 5339(c))
+",2012-07-06 00:00:00 UTC,2015-12-18 00:00:00 UTC,false,,Incentives,U.S. Department of Transportation,2017-01-06 22:06:58 UTC,,,,"",AFTMKTCONV|BIOD|ETH|ELEC|HEV|HY|NG|NEVS|PHEV|LPG,GNT|OTHER,"",STATION|FLEET|GOV,http://www.gpo.gov/fdsys/|https://www.congress.gov/public-laws/114th-congress|http://thomas.loc.gov/home/LegislativeData.php?&n=PublicLaws&c=113
+11561,CT,Reduced Registration Fee for Electric Vehicles (EVs),"EVs are eligible for a reduced biennial vehicle registration fee of
+\$38. For more information, refer to the Connecticut Department of Motor
+Vehicles [Vehicle Registration
+Fees](http://www.ct.gov/dmv/cwp/view.asp?a=802&q=244546) website.
+(Reference [Connecticut General Statutes](http://www.cga.ct.gov/)
+14-49(f))
+",2013-01-01 00:00:00 UTC,,false,23,State Incentives,"",,,,,"",ELEC|PHEV,OTHER,"",IND,http://www.cga.ct.gov/
+11565,CO,Electric Vehicle (EV) and Infrastructure Coaching Service,"The Colorado Energy Office\'s ReCharge Colorado program (ReCharge) works
+to advance the adoption of EVs and installation of charging
+infrastructure in Colorado. ReCharge provides coaching services to
+consumers, local governments, workplaces, and multi-unit housing
+developments to help them identify monetary savings, grant
+opportunities, and other EV benefits. ReCharge also helps build local
+stakeholder support for EVs. For more information, see the [ReCharge
+Colorado](https://www.colorado.gov/pacific/energyoffice/recharge-colorado)
+website.
+",,,false,17,State Incentives,"",2019-11-26 23:32:40 UTC,,,,"",BIOD|ETH|ELEC|HEV|HY|NG|PHEV|LPG,OTHER,"",STATION|FLEET|GOV|OTHER,""
+11571,MI,Plug-In Electric Vehicle (PEV) Charging Rate and Infrastructure Rebate - Lansing BWL,"The Lansing Board of Water & Light (BWL) offers a pilot PEV time-of-use
+charging rate to single- or multi-family dwellings of four units or less
+with separately metered Level 2 electric vehicle supply equipment
+(EVSE). Additional terms and conditions apply.
+
+BWL also offers a reimbursement of up to \$1,000 for the purchase and
+installation of EVSE for customers that have enrolled in the PEV
+charging rate. The program is limited to the first 10 qualified
+residential customers.
+
+For more information, see the BWL
+[PEVs](https://www.lbwl.com/customers/save-money-energy/plug-electric-vehicles-pev/)
+website.
+",,,false,40,Utility/Private Incentives,"",2016-11-22 21:45:58 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+11608,NY,Plug-In Electric Vehicle (PEV) Voluntary Time of Use (TOU) Rate Price Guarantee - Con Edison,"Under the voluntary TOU rate, residential customers will pay a reduced
+price for electricity used during the designated off-peak period.
+Customers who register a PEV with Con Edison and are participating in
+the voluntary TOU rate are guaranteed to pay no more than the standard
+electric rate for one year after registration with Con Edison. For more
+information, including how to enroll, see the [Electric Vehicles & Your
+Bill](https://www.coned.com/en/our-energy-future/technology-innovation/electric-vehicles/electric-vehicles-and-your-bill)
+website.
+",,,false,50,Utility/Private Incentives,"",2015-06-12 20:05:50 UTC,,,,"",ELEC|PHEV,EXEM|OTHER,"",STATION|IND,""
+11610,WA,Utility Electric Vehicle Supply Equipment (EVSE) Return on Investment Authorization,"Utilities may petition the Washington Utilities and Transportation
+Commission (UTC) for a rate of return on EVSE installed for the benefit
+of ratepayers through December 31, 2030. The UTC may approve an
+additional 2% to the standard rate of return if the utility installs
+EVSE on a fully regulated basis similar to other capital investments
+behind a customer\'s meter, and the expenditures do not increase
+ratepayer costs more than 0.25%. EVSE are subject to a depreciation
+schedule and may be gifted to the customer when fully depreciated. The
+UTC issued a
+[report](https://app.leg.wa.gov/ReportsToTheLegislature/Home/GetPDF?fileName=EVSE%20Report%20to%20the%20Legislature%20-%20Final_a9efaf10-04d7-4c3e-b2df-f0c3da1d06ed.pdf)
+on the use and impacts of the incentive on December 1, 2017. (Reference
+[Revised Code of Washington](http://apps.leg.wa.gov/rcw/) 80.28.360)
+",2015-05-11 00:00:00 UTC,2019-04-30 00:00:00 UTC,false,17,State Incentives,"",2019-05-10 00:34:17 UTC,2030-12-31 00:00:00 UTC,,,"",ELEC|PHEV,OTHER,"",STATION|AFP,http://apps.leg.wa.gov/rcw|http://leg.wa.gov/
+11625,AZ,Electric Vehicle Charging Rate Incentive - Salt River Project (SRP),"SRP offers a time-of-use (TOU) rate for residential customers that own
+or lease a plug-in hybrid electric or plug-in electric vehicle. The TOU
+rate applies to daily super off-peak hours and additional off-peak hours
+on weekends, holidays, and some weekday hours. Eligible customers must
+be able to separately meter EV charger usage. For more information,
+including how to enroll, see the SRP [Electric Vehicle Price
+Plan](https://www.srpnet.com/prices/home/electricvehicle.aspx) website.
+",,,false,46,Utility/Private Incentives,"",2020-05-11 15:24:11 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+11670,IL,Plug-In Electric Vehicle (PEV) Financing and Charging - Illinois Electric Cooperative,"Illinois Electric Cooperative (Co-op) members are eligible for loan
+financing at 0.5% for 60 months for the purchase of new PEVs. Members
+must apply and be approved for financing before purchase. The Co-op also
+offers a PEV time-of-use electricity rate for residential customers who
+own a PEV. The PEV rate is optional and requires installation of a
+separate meter. For more information, see the [Illinois Electric
+Cooperative](http://www.e-co-op.com/services/electric-cars) website.
+",,,false,72,Utility/Private Incentives,"",2015-12-08 15:55:20 UTC,,,,"",ELEC|PHEV,LOANS|OTHER,"",STATION|IND,""
+11729,MD,Plug-In Electric Vehicle (PEV) Charging Rates - BGE,"Baltimore Gas and Electric Company (BGE) offers time-of-use (TOU) rate
+options to residential customers who purchase or lease a PEV.
+Residential customers with a qualified Level 2 PEV charger, capable of
+separately tracking PEV charging data, may apply for a TOU rate
+applicable only to PEV charger usage. Residential PEV drivers without a
+qualified Level 2 charger may enroll in a whole-house TOU rate, which
+applies to the energy used for the entire residence during a billing
+period. For more information, see the BGE
+[EVsmart](https://www.bge.com/SmartEnergy/InnovationTechnology/Pages/EVTOURate.aspx)
+website.
+",2016-06-28 00:00:00 UTC,,false,32,Utility/Private Incentives,"",2020-05-12 15:08:43 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+11748,CA,Electric Vehicle Supply Equipment (EVSE) and Charging Incentives - Sonoma Clean Power,"Qualified Sonoma Clean Power (SCP) customers are eligible to receive a
+free EVSE that can be connected to Wi-Fi and communicate with the SCP
+GridSavvy Community. Customers are responsible for shipping and
+installation costs. Customers may also receive \$5 per month for
+connecting the EVSE to the GridSavvy Community. Other terms and
+conditions may apply. For more information, including frequently asked
+questions, see SCP\'s
+[GridSavvy](https://sonomacleanpower.org/programs/gridsavvy) website.
+",,,false,120,Utility/Private Incentives,"",2016-11-23 21:04:55 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+11783,MD,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - Pepco,"Pepco offers a time-of-use rate to all qualified residential customers
+in Maryland who own or lease a PEV. For more information, see Pepco\'s
+[Plug-In Electric Vehicle
+Charging](https://www.pepco.com/SmartEnergy/InnovationTechnology/Pages/ElectricVehicleProgramMD.aspx)
+website.
+",,,false,35,Utility/Private Incentives,"",2017-05-11 20:13:21 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+11895,MA,Transportation Emissions Reduction Reporting,"Massachusetts must meet annually declining greenhouse gas (GHG)
+emissions limits for mobile sources, as specified in the Massachusetts
+Global Warming Solutions Act. By July 1, the Massachusetts Department of
+Transportation (MassDOT) must quantify and report aggregate MassDOT
+transportation GHG emissions annually. Among other measures to achieve
+reductions, MassDOT must increase plug-in electric vehicles (PEVs)
+within the Massachusetts Bay Transportation Authority and MassDOT fleet
+and promote PEV use by motorists. (Reference [Massachusetts Department
+of Environmental
+Protection](https://www.mass.gov/orgs/massachusetts-department-of-environmental-protection)
+310 CMR 60.05 and [Massachusetts General
+Laws](https://malegislature.gov/) Chapter 21N, Section 3)
+",2016-05-17 00:00:00 UTC,2017-08-11 00:00:00 UTC,false,46,Laws and Regulations,"",2017-11-28 16:07:30 UTC,,,,"",ELEC|PHEV,"",CCEINIT,GOV,https://malegislature.gov/|https://www.mass.gov/lists/air-quality-laws-rules-massdep
+11911,CO,Colorado Electric Vehicle (EV) Plan,"The Colorado Energy Office, Regional Air Quality Council, Department of
+Public Health and Environment, and Department of Transportation created
+the Colorado EV 2020 Plan (Plan). The Plan calls for Colorado to be a
+leader in the EV market and accelerate the adoption of EVs by supporting
+EV infrastructure along Colorado\'s corridors, including:
+
+-   Creating strategies and partnerships to create EV fast-charging
+    corridors;
+-   Coordinating with [Regional Electric Vehicle
+    West](https://www.afdc.energy.gov/laws/11869) memorandum of
+    understanding states;
+-   Developing strategic partnerships with utilities, local governments,
+    and other stakeholders;
+-   Updating signage and wayfinding requirements to include EV
+    fast-charging, and;
+-   Ensuring economic and tourism benefits of EV charging.
+
+The Plan will be updated annually. For more information, see the
+[Colorado EV
+Plan](https://drive.google.com/file/d/1-z-lNQMU0pymcTQEH8OvnemgTbwQnFhq/edit).
+",2018-01-01 00:00:00 UTC,,false,39,Laws and Regulations,"",2018-02-08 19:28:58 UTC,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,OTHER,""
+11921,MN,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - Xcel Energy,"Xcel Energy offers an electric vehicle (EV) rate and a time-of-use (TOU)
+rate to qualified residential customers for charging PEVs. Both rates
+require a separate meter. For rate information, including how to
+qualify, see Xcel Energy\'s [EV Rate
+Options](https://www.xcelenergy.com/energy_portfolio/innovation/electric_vehicles/electrical_vehicle_rate)
+website.
+",,,false,40,Utility/Private Incentives,"",2018-02-16 14:42:07 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+11923,FL,Electric Vehicle Supply Equipment (EVSE) Incentives - Brickell Energy,"Brickell Energy\'s aFLoat Program offers two different incentives to
+facilitate the installation of EVSE in Florida. Through the aFLoat Host
+Agreement, Brickell Energy will cover the cost of hardware, network
+service plans, management service, and warranties. Eligible hosts
+include commercial real estate property owners and managers. Hosts must
+cover the cost of installation. The aFLoat Rental Plan offers public and
+commercial locations the EVSE hardware, network service plan, management
+service, and warranties at a reduced fee. Additional terms and
+conditions apply. For more information, see Brickell Energy\'s [aFLoat
+Program](https://brickellenergy.com/afloat-program/) website.
+",,,false,44,Utility/Private Incentives,"",2018-03-09 15:04:10 UTC,,,,"",ELEC|PHEV,LOANS|OTHER,"",STATION,""
+11924,UT,Plug-In Electric Vehicle (PEV) Credit and Charging Rate Reduction Pilot - Rocky Mountain Power,"Rocky Mountain Power offers residential customers with PEVs \$200 to
+enroll in a time-of-use (TOU) rate pilot. Participants may choose
+between two rate plans. The TOU rate will apply to all household energy
+use. For more information, see the Rocky Mountain Power [PEV TOU Rate
+Pilot
+Program](https://www.rockymountainpower.net/savings-energy-choices/electric-vehicles/utah-ev-time-of-use-rate.html)
+website.
+",,,false,26,Utility/Private Incentives,"",2018-03-09 22:05:09 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+11944,MN,Plug-In Electric Vehicle (PEV) Wind Energy Promotion - Great River Energy,"Great River Energy\'s Revolt initiative offers the ability to power a
+PEV with 100% wind energy for the lifetime of the vehicle. The program
+requires no additional cost, however standard or off-peak rates still
+apply for the electricity used.
+",,,false,42,Utility/Private Incentives,"",2018-04-13 19:30:16 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|FLEET|GOV|IND,""
+11954,VT,Electric Vehicle Supply Equipment (EVSE) Incentive - Green Mountain Power (GMP),"GMP residential customers are eligible for a free Level 2 EVSE when they
+purchase a new all-electric vehicle. For more information about these
+incentives, see GMP\'s [In-Home Level 2 EV
+Charger](https://greenmountainpower.com/product/home-level-2-ev-charger/)
+website.
+",,,false,14,Utility/Private Incentives,"",2019-07-09 16:52:13 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+11997,NH,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - New Hampshire Electric Co-op (NHEC),"NHEC offers a residential off-peak rate program for electricity
+purchased to charge PEVs. The electricity used for vehicle charging is
+metered separately from all other electricity use. For more information,
+see the NHEC [Drive
+Electric](https://www.nhec.com/drive-electric/#/find/nearest) website.
+",,,false,30,Utility/Private Incentives,"",2018-07-06 20:59:59 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+11999,CA,Electric Vehicle Supply Equipment (EVSE) Incentive Program Support,"The California Electric Vehicle Infrastructure Project (CALeVIP), funded
+by the California Energy Commission, provides guidance and funding for
+local governments and organizations to develop and implement EVSE
+incentive programs that help meet regional needs for Level 2 and direct
+current (DC) fast EVSE. CALeVIP evaluates proposed EVSE incentive
+programs and solicits input from stakeholders to guide the development
+and implementation of the programs. CALeVIP also provides the incentive
+funding for each program. For more information, see the
+[CALeVIP](https://calevip.org/) website.
+",,,false,14,State Incentives,"",2018-07-09 19:13:39 UTC,,,,"",ELEC|PHEV,GNT|OTHER,"",STATION|OTHER,""
+12021,MA,Electric Vehicle Supply Equipment (EVSE) Incentive,"Residential customers of participating Massachusetts municipal light
+plants (MLPs) may be eligible for a free or discounted Level 2 EVSE
+through the Massachusetts Municipal Wholesale Electric Company\'s Home
+Energy Loss Prevention Services (HELPS) program. Participating MLPs
+include Groton, Ipswich, Marblehead, Sterling, Shrewsbury, South Hadley,
+Wakefield, and West Boylston. Incentives vary by MLP. For more
+information, see the HELPS [EV Charger
+Incentive](https://www.munihelps.org/rebates-incentives/ev-charger-incentive/)
+website.
+",,,false,20,Utility/Private Incentives,"",2018-08-08 15:59:10 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12022,NY,Plug-In Electric Vehicle Charging Rate Incentive for Businesses - Con Edison,"Con Edison offers an electric rate reduction ranging from 34% to 39% for
+businesses in New York City and Westchester County that install a
+publicly accessible direct current (DC) fast charger. To qualify, the
+charger must have a power output of at least 100 kilowatts. Additional
+terms apply. The rate reduction is available through April 2025. For
+more information, including how to apply, see the Con Edison [Business
+Incentive
+Rate](https://www.coned.com/en/commercial-industrial/economic-development/business-incentive-rate)
+website.
+",,,false,42,Utility/Private Incentives,"",2018-08-08 16:04:19 UTC,2025-04-01 00:00:00 UTC,,,"",ELEC|PHEV,OTHER,"",STATION|AFP,""
+12027,NC,EVSE Rebate and Charging Rate Reduction - Randolph Electric Membership Corporation (EMC),"Randolph EMC\'s Electric Vehicle Utility Program (REVUP) offers rebates
+for residential customers of \$500 towards the purchase of residential
+Level 2 electric vehicle supply equipment (EVSE). To qualify, residents
+must be a registered owner of an electric vehicle (EV), purchase and
+install a Wi-Fi connected Level 2 EVSE, and agree to share the data
+collected by the EVSE. Rebates are available to the first 25 applicants.
+REVUP also offers residents an EV time-of-use (TOU) rate. For more
+information, see the
+[REVUP](https://www.randolphemc.com/content/revup-your-electric-vehicle-savings-remc)
+website.
+",,,false,25,Utility/Private Incentives,"",2018-08-09 16:24:18 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+12042,DE,Electric Vehicle Supply Equipment (EVSE) Incentive - Delaware Electric Cooperative (DEC),"DEC offers a one-time \$200 billing credit and an additional \$5 monthly
+billing credit to customers if they do not charge their plug-in electric
+vehicles during Beat the Peak alerts. To qualify for the Beat the Peak
+incentives, residents must have qualified WiFi connected residential
+EVSE and enroll in the Beat the Peak program. For more information, see
+the [Beat the Peak](https://www.delaware.coop/btp/electric-vehicles)
+website.
+",,,false,10,Utility/Private Incentives,"",2019-04-05 14:26:55 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",IND,""
+12044,CA,Multi-Unit Dwelling (MUD) and Workplace Electric Vehicle Supply Equipment (EVSE) Incentives - PG&E,"Pacific Gas & Electric\'s (PG&E) Electric Vehicle (EV) Charge Network
+Program provides installation support and funding for multi-unit
+dwellings and workplaces in the PG&E territory to install PG&E approved
+EVSE in parking areas. To qualify, facilities must equip at least ten
+adjoining parking spaces with EVSE. Eligible expenses include the cost
+of installation and a portion of the EVSE unit cost, up to \$1,500 per
+port. For more information, including funding availability, see the PG&E
+[EV Charge Network
+Program](https://www.pge.com/en_US/business/solar-and-vehicles/your-options/clean-vehicles/charging-stations/program-participants/program-participants.page)
+website.
+",,,false,108,Utility/Private Incentives,"",2018-09-07 21:05:48 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|FLEET,""
+12046,MA,Electric Vehicle Supply Equipment (EVSE) Discount - Braintree Electric Light Department (BELD),"BELD offers customers a discount of \$250 for the purchase of a
+qualified Level 2 EVSE. To qualify, customers must enroll in the Smart
+Charging Program. For more information, including eligible EVSE
+criteria, see the BELD [Charging
+Incentives](https://braintree-ev.ene.org/) website.
+",,,false,18,Utility/Private Incentives,"",2018-09-07 21:13:49 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12047,MA,Plug-In Electric Vehicle (PEV) Charging Incentive - Braintree Electric Light Department (BELD),"BELD's Smart Charging Program offers a bill credit of \$8 per month to
+customers that charge their PEVs between 9pm and 12pm the next day on
+weekdays or at any time during the weekend. For more information, see
+the BELD [Charging
+Incentives](https://braintree-ev.ene.org/charging-guide/rebates-and-incentives-charging/)
+website.
+",,,false,19,Utility/Private Incentives,"",2018-09-07 21:14:47 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12052,OH,Commercial Electric Vehicle Supply Equipment (EVSE) Incentive Program - AEP Ohio,"American Electric Power (AEP) Ohio offers financial incentives for the
+hardware, network services, and installation of EVSE for up to 300 Level
+2 and 75 direct current (DC) fast stations. Incentives in varying
+amounts are available to all non-residential customers that have a valid
+AEP Ohio account. EVSE must be installed at a workplace, government
+facility, multi-unit dwelling, or other publicly available charging
+location served by AEO Ohio. Projects must involve a new installation
+from the approved [EVSE
+list](https://www.aepohio.com/global/utilities/lib/docs/save/business/ElectricVehicles/20190911ApprovedEVSEList_revised.xlsx).
+Customers in income eligible census tracts may qualify for greater
+incentives. For more information, including the incentive amounts and
+application terms and conditions, see the AEP [Equipment Charging
+Incentives](https://www.aepohio.com/save/business/ElectricVehicles/)
+website.
+",,,false,45,Utility/Private Incentives,"",2018-09-10 13:46:03 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|FLEET|GOV,""
+12065,MN,Residential Plug-In Electric Vehicle (PEV) Charging Pilot Program - Xcel Energy,"Xcel Energy offers a pilot program for residential customers who own or
+lease a PEV. The program provides discounted Level 2 electric vehicle
+supply equipment, installation, and charging costs.For more information,
+including enrollment, see the Xcel Energy [EV Service
+Pilot](https://www.xcelenergy.com/energy_portfolio/innovation/electric_vehicles/ev_service_pilot)
+website.
+",,,false,41,Utility/Private Incentives,"",2018-10-02 20:38:18 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12068,CA,Multi-Unit Dwelling (MUD) and Workplace Electric Vehicle Supply Equipment (EVSE) Incentive - SDG&E,"San Diego Gas & Electric\'s (SDG&E) Power Your Drive program provides
+EVSE equipment, installation, and maintenance support for MUDs and
+workplaces in the SDG&E territory. Site hosts must make a one-time
+participation payment and be able to dedicate at least five parking
+spaces at residential locations or at least ten parking spaces at
+workplaces for EVSE. MUDs and workplaces located in disadvantaged
+communities may qualify for the program at no cost to the site host.
+Additional terms and conditions apply. For more information, including
+funding availability, see the [Power Your
+Drive](https://www.sdge.com/residential/electric-vehicles/power-your-drive)
+website.
+",,,false,155,Utility/Private Incentives,"",2018-10-09 20:59:17 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12071,FL,Electric Vehicle Supply Equipment (EVSE) Pilot Program - Duke Energy,"Duke Energy offers free Level 2 and direct current (DC) fast EVSE,
+installation, warranty, and network connection services to its customers
+through the Park & Plug pilot program. Eligible entities include
+multi-unit dwellings, workplaces, businesses, and areas along
+high-traffic corridors. Site hosts are responsible for electricity costs
+and must agree to participate in the pilot program through December
+2022. Additional terms and conditions apply. New applications are not
+being considered at this time (verified May 2020). For more information,
+including application requirements, see the [Park &
+Plug](https://www.duke-energy.com/our-company/florida-future/park-and-plug)
+website.
+",,,false,45,Utility/Private Incentives,"",2018-10-10 13:13:13 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12075,TX,Plug-In Electric Vehicle (PEV) Charging Rate Pilot Program - CPS Energy,"CPS offers a rate option for qualified customers for charging PEVs. The
+flat rate option is \$60 annually for each PEV. For rate information,
+including how to qualify, see the CPS Energy [Electric
+Vehicles](https://www.cpsenergy.com/content/corporate/en/about-us/programs-services/electric-vehicles.html)
+website.
+",,,false,76,Utility/Private Incentives,"",2018-10-10 16:00:41 UTC,,,,"",ELEC|PHEV,OTHER,"",OTHER,""
+12106,CA,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - Azusa Light & Water,"Azusa Light & Water offers a \$0.05 per kilowatt-hour (kWh) discount for
+electricity used to charge PEVs during off peak times. Customers must
+use a minimum of 50 kWh to receive the discount. For more information,
+see the Azusa Light & Water [Schedule
+EV](https://www.ci.azusa.ca.us/1191/Schedule-EV) website.
+",,,false,147,Utility/Private Incentives,"",2018-11-13 17:09:55 UTC,,,,"",ELEC|PHEV,OTHER,"",PURCH|GOV|IND,""
+12107,CA,Plug-In Electric Vehicle (PEV) Charging Rate Reduction - Burbank Water and Power (BWP),"BWP offers a discounted rate to residential or multi-family customers
+for electricity used to charge PEVs. Customers must remain on the PEV
+time-of-use rate for a minimum of one year. For more information, see
+the BWP [Electric
+Vehicles](https://www.burbankwaterandpower.com/electric-vehicles)
+website.
+",,,false,148,Utility/Private Incentives,"",2018-11-13 17:11:55 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|IND,""
+12147,MN,Plug-In Electric Vehicle (PEV) Charging Rate Reduction and EVSE Rebate - LREC,"Lake Region Electric Cooperative (LREC) offers a time-of-use (TOU) rate
+to members with PEVs enrolled in the ChargeWise program. To be eligible
+for the TOU rate, vehicles must use a separate sub-metered circuit.
+
+LREC also offers a rebate of up to \$500 for the installation of Level 1
+or Level 2 electric vehicle supply equipment (EVSE).
+
+For more information, see the LREC
+[ChargeWise](https://www.lrec.coop/products-service/chargewise) website.
+",,,false,37,Utility/Private Incentives,"",2019-02-08 20:50:19 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+12149,NM,State Emissions Reduction Strategy,"The governor established the Climate Change Task Force (Task Force) to
+evaluate strategies to reduce GHG and criteria pollutant emissions in
+New Mexico, including potential low emission vehicle and ZEV standards.
+New Mexico will pursue GHG emissions reduction of at least 45% below
+2005 levels by 2030. The Task Force developed a climate strategy with
+initial recommendations in 2019. (Reference [Executive
+Order](https://www.governor.state.nm.us/) 2019-003, 2019)
+",2019-01-29 00:00:00 UTC,,false,42,Laws and Regulations,"",2019-02-08 20:56:49 UTC,,,,"",ELEC|HY|NG|PHEV,"",CCEINIT,OTHER,https://www.governor.state.nm.us/
+12151,VT,Plug-In Electric Vehicle (PEV) Charging Rate Reduction and EVSE Rebate - BED,"Burlington Electric Department (BED) offers a per kilowatt-hour discount
+for residential customers to charge PEVs during off-peak times. To
+qualify, customers must install a WiFi enabled electric vehicle supply
+equipment (EVSE).
+
+BED also offers a rebate of \$400 for the purchase and installation of a
+qualifying Wifi enabled EVSE for customers that have enrolled in BED's
+Residential EV Rate. Eligible applicants must have purchased EVSE within
+60 days of the acquisition of the EV.
+
+For more information, see the BED [EV
+Rate](https://www.burlingtonelectric.com/evrate) website.
+",,,false,12,Utility/Private Incentives,"",2019-02-08 21:02:41 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+12157,DC,Emissions Reduction Plan for Transportation Network Companies,"By February 1, 2022, and every two years thereafter, each private
+vehicle-for-hire company must develop a greenhouse gas emissions
+reduction plan, including actionable proposals to reduce emissions, and
+submit it to the District of Columbia Public Service Commission. Plans
+must include strategies to increase the proportion of vehicle-for-hire
+drivers with zero emission vehicles (ZEVs) and to increase the
+proportion of vehicle miles completed by ZEVs relative to total vehicle
+miles traveled. (Reference [District of Columbia
+Law](https://code.dccouncil.us/dc/council/code/) L22-0257, 2019, and
+[District of Columbia Code](http://dccouncil.us/) 50-721)
+",2019-01-18 00:00:00 UTC,,false,34,Laws and Regulations,"",2019-02-11 16:14:37 UTC,,,,"",ELEC|HY,"",CCEINIT,FLEET|GOV,http://dccouncil.us/
+12161,MA,Electric Vehicle Supply Equipment (EVSE) Installation Incentive – Eversource,"Eversource's EV Charging Station program provides installation and
+funding support for non-residential customers to install approved Level
+2 or direct current (DC) fast EVSE at businesses, multi-unit dwellings,
+workplaces, and fleet facilities. To qualify, customers must own, lease,
+or operate a site where vehicles are typically parked for at least two
+hours. Eligible installation expenses include trenching, dedicated
+service meter, conduit, and wiring costs. Additional terms and
+conditions apply. For more information, including application
+guidelines, see the Eversource [Charging
+Stations](https://www.eversource.com/content/ema-c/residential/save-money-energy/explore-alternatives/electric-vehicles/charging-stations)
+website.
+",,,false,16,Utility/Private Incentives,"",2019-02-11 16:44:06 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12163,CO,Transportation Electrification Workgroup,"The Transportation Electrification Workgroup (Workgroup) will develop,
+coordinate, and implement state programs and strategies to support
+transportation electrification in Colorado. The Workgroup will report to
+the governor on an annually on progress made towards the goals.
+
+The Colorado Department of Public Health and Environment, along with the
+Workgroup, will revise the state Beneficiary Mitigation Plan for
+allocating funds from Coloardo\'s portion of the [Volkswagen
+Environmental Mitigation
+Trust](https://www.epa.gov/enforcement/volkswagen-clean-air-act-civil-settlement).
+The revised plan will focus all remaining eligible funds on supporting
+transportation electrification.
+
+(Reference [Executive
+Order](https://www.colorado.gov/governor/executive-orders) B 2019 002,
+2019).
+",2019-01-17 00:00:00 UTC,,false,41,Laws and Regulations,"",2019-02-11 19:27:41 UTC,,,,"",ELEC|PHEV,"",REQ|CCEINIT,OTHER,https://www.colorado.gov/governor/sites/default/files/b_2019-002_zev.pdf
+12164,CO,Zero Emission Vehicle (ZEV) Transportation Plan,"The Colorado Department of Transportation (CDOT), along with the
+Transportation Electrification Workgroup, will develop a ZEV and clean
+transportation plan containing strategies that support the deployment of
+ZEVs and expand mobility options to save energy, reduce congestion, and
+improve the safety of Colorado's transportation network. (Reference
+[Executive Order](https://www.colorado.gov/governor/executive-orders) B
+2019 002, 2019).
+",2019-01-17 00:00:00 UTC,,false,45,Laws and Regulations,"",2019-02-11 19:29:15 UTC,,,,"",ELEC|PHEV,"",REQ|CCEINIT,OTHER,https://www.colorado.gov/governor/sites/default/files/b_2019-002_zev.pdf
+12170,NC,Plug-In Electric Vehicle (PEV) Charging Rate Incentive – Cape Hatteras Electric Cooperative (CHEC),"Cape Hatteras Electric Co-Op (CHEC) offers time-of-use (TOU) electricity
+rates to residential customers with a PEV. For more information, see the
+CHEC [Electric Vehicles](https://www.chec.coop/electricvehicles)
+website.
+",,,false,24,Utility/Private Incentives,"",2019-02-11 19:46:13 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12187,MT,Energy Performance Contract Authorization  ,"Government entities in Montana are authorized to enter into energy
+performance contracts to pay for energy efficiency improvements with
+energy savings, including savings from the use of energy-efficient
+vehicles. (Reference [Montana Code
+Annotated](https://leg.mt.gov/bills/mca/index.html) 90-4-1101)
+",2015-04-28 00:00:00 UTC,,false,77,Laws and Regulations,"",2019-04-02 15:22:24 UTC,,,,"",BIOD|ETH|ELEC|EFFEC|HEV|HY|NG|PHEV|LPG,"",CCEINIT,GOV,https://leg.mt.gov/bills/mca/index.html
+12202,PA,Plug-In Electric Vehicle (PEV) Credit – Duquesne Light Company (DLC),"DLC offers a one-time bill credit of \$60 to residential customers who
+purchase or lease a PEV. For more information, including how to apply,
+see the DLC [Electric
+Vehicles](https://www.duquesnelight.com/energy-money-savings/electric-vehicles)
+website.
+",,,false,48,Utility/Private Incentives,"",2019-04-23 18:13:53 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",IND,""
+12221,NY,Smart Charging and Time-of-Use Incentives – Con Edison,"Eligible plug-in electric vehicle customers can receive up to \$500 in
+incentives annually by installing a connected car device provided by Con
+Edison that tracks driving and charging habits, and by charging during
+off-peak hours. For more information, including how to apply, see the
+[SmartCharge New
+York](https://www.fleetcarma.com/smartchargenewyork/setup/) website.
+",,,false,46,Utility/Private Incentives,"",2019-06-07 20:49:19 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12229,NJ,Zero Emission Vehicle (ZEV) Initiative,"The New Jersey Department of Environmental Protection, New Jersey Board
+of Public Utilities, and the New Jersey Economic Development Authority
+signed a [memorandum of
+understanding](http://d31hzlhk6di2h5.cloudfront.net/20190603/57/5f/94/b3/288bba9e13409df9b8cdb482/MOU_6.3.19.pdf)
+(MOU) to increase the number of ZEVs in the State and meet the State's
+goal of registering 330,000 ZEVs by 2025 through involvement in the New
+Jersey Partnership to Plug-In (Partnership). The responsibilities of the
+Partnership include:
+
+-   Mapping existing and potential locations for electric vehicle supply
+    equipment (EVSE);
+-   Reviewing state- and municipal-level permit processes for the
+    installation of EVSE and identifying best practices to streamline
+    these processes;
+-   Expanding existing efforts to educate consumers about ZEVs;
+-   Evaluating strategies to finance an EVSE network;
+-   Developing a rebate program to incentivize the purchase of new and
+    used ZEVs;
+-   Creating a method to track the usage of EVSE throughout the State;
+-   Identifying programs and resources that can be used to attract
+    ZEV-related companies to the State; and
+-   Coordinating with other state agencies and departments to further
+    implement the goals of the Partnership.
+
+For more information, see the [Regional Greenhouse Gas
+Initiative](https://www.state.nj.us/dep/aqes/rggi.html) website.
+",2019-06-03 00:00:00 UTC,,false,14,Laws and Regulations,"",2019-06-19 17:48:35 UTC,,,,"",ELEC|HY|PHEV,"",CCEINIT,OTHER,""
+12251,CO,Transportation Impacts Stakeholder Group,"The Colorado Department of Transportation (CDOT) will convene and engage
+with a stakeholder group comprised of representatives of potentially
+affected entities to examine and address impacts of new transportation
+technologies and business models. The topics include funding
+transportation infrastructure needed to support the adoption of
+zero-emission vehicles (ZEV) and incentivizing the adoption of ZEVs for
+use in commercial applications. CDOT is required to report on the
+progress and policy recommendations of the stakeholder group during the
+2019 presentation to legislative oversight committees and implement
+actions by October 1, 2020. (Reference [Colorado Revised
+Statutes](http://www.lexisnexis.com/hottopics/Colorado/) 43-1-125)
+",2019-05-31 00:00:00 UTC,,false,42,Laws and Regulations,"",2019-07-11 23:15:09 UTC,,,,"",ELEC|HY|OTHER,"",AIRQEMISSIONS|CCEINIT|OTHER,STATION|MAN|GOV|OTHER,https://leg.colorado.gov/|http://www.lexisnexis.com/hottopics/Colorado/
+12260,LA,Electric Equipment and Electric Vehicle Supply Equipment (EVSE) Incentive - Entergy,"Qualified Entergy customers are eligible to receive incentives in
+varying amounts for the purchase Level 2 and DC Fast Charging EVSE. For
+more information, including eligible technologies, see the Entergy
+[eTech](https://entergyetech.com/) website.
+",,,false,30,Utility/Private Incentives,"",2019-08-05 15:39:19 UTC,,,,"",ELEC,OTHER,"",STATION|FLEET|IND,""
+12261,MS,Electric Equipment and Electric Vehicle Supply Equipment (EVSE) Incentive - Entergy,"Qualified Entergy customers are eligible to receive incentives in
+varying amounts for the purchase of select on- and off-road electric
+vehicles and Level 2 EVSE. For more information, including eligible
+technologies, see the Entergy [eTech](https://entergyetech.com/)
+website.
+",,,false,8,Utility/Private Incentives,"",2019-08-05 15:43:07 UTC,,,,"",ELEC,OTHER,"",STATION|FLEET|IND,""
+12262,TX,Electric Equipment and Electric Vehicle Supply Equipment (EVSE) Incentive - Entergy,"Qualified Entergy customers are eligible to receive incentives in
+varying amounts for the purchase of select on- and off-road electric
+vehicles and Level 2 EVSE. For more information, including eligible
+technologies, see the Entergy [eTech](https://entergyetech.com/)
+website.
+",,,false,66,Utility/Private Incentives,"",2019-08-05 15:44:40 UTC,,,,"",ELEC,OTHER,"",STATION|FLEET|IND,""
+12264,WI,Plug-In Electric Vehicle (PEV) Charging Rate Incentive - Madison Gas and Electric (MGE),"MGE offers a time-of-use (TOU) electricity rate for customers with a
+PEV. For more information, see the MGE [Shift &
+Save](https://www.mge.com/our-environment/electric-vehicles/shift-save)
+website.
+",,,false,100,Utility/Private Incentives,"",2019-08-05 17:31:26 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|PURCH|IND,""
+12267,MN,Electric Vehicle Supply Equipment (EVSE) Rebate and Rate Reduction - Otter Tail Power,"Otter Tail Power Company offers a time-of-use (TOU) rate to residential
+customers with plug-in electric vehicles (PEV). The TOU rate only
+applies to electricity used to charge the PEV.
+
+Otter Tail Power Company also offers a \$400 rebate for the installation
+of a Level 2 EVSE.
+
+For more information, see the Otter Tail Power Company [Electric
+Vehicles](https://www.otpco.com/ways-to-save/electric-vehicles/)
+website.
+",,,false,36,Utility/Private Incentives,"",2019-08-06 17:06:12 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+12282,CT,State Fleet Greenhouse Gas Emissions Reduction,"AA Steering Committee on State Sustainability (Committee) will direct
+executive branch agencies to reduce greenhouse gas (GHG) emissions from
+vehicle fleets by expanding the ""Lead by Example"" program. The Committee
+will develop actions to achieve GHG reduction goals set by the governor.
+For more information and updates, see the [GreenerGovCT - A Lead By
+Example
+Initiative](https://www.ct.gov/deep/cwp/view.asp?a=4405&q=489980&deepNav_GID=2121)
+website. (Reference [Executive
+Order](https://portal.ct.gov/Office-of-the-Governor/Governors-Actions/Executive-Orders)
+2019-1)
+",2019-04-24 00:00:00 UTC,,false,35,Laws and Regulations,"",2019-09-10 21:14:02 UTC,,,,"",ELEC|PHEV,"",CCEINIT,GOV,https://afdc.energy.gov/laws/search?utf8=%E2%9C%93&keyword=State+Fleet+Greenhouse+Gas+Emissions+Reduction&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5B%5D=0&loc%5
+12283,CT,State Building Electric Vehicle Charging Station Standards,"The Connecticut Department of Energy and Environment must develop
+standards for construction of state buildings, which include standards
+electric vehicle charging stations standards and meet or exceed
+Leadership in Energy and Environmental Design (LEED) Silver levels.
+(Reference [Connecticut General Statutes](http://www.cga.ct.gov/)
+16-19ggg)
+",2019-06-28 00:00:00 UTC,,false,33,Laws and Regulations,"",2019-09-10 21:17:22 UTC,,,,"",ELEC|PHEV,"",CCEINIT,GOV,https://www.cga.ct.gov/2019/ACT/pa/pdf/2019PA-00035-R00HB-05002-PA.pdf|https://www.cga.ct.gov/asp/cgabillstatus/cgabillstatus.asp?selBillType=Bill&bill_num=HB05002&which_year=2019
+12294,OR,Plug-In Electric Vehicle (PEV) Registration Incentive - Emerald People’s Utility District (EPUD),"EPUD customers are eligible for a \$100 incentive to register their new
+or used PEV with the Oregon Department of Motor Vehicles. New or used
+PEVs with at least 2 kilowatt-hours of on-board battery capacity
+qualify. For more information, including the application, visit the
+[EPUD](https://www.epud.org/register-your-ev/) website.
+",,,false,35,Utility/Private Incentives,"",2019-10-16 15:25:36 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12313,CA,Plug-in Electric Vehicle (PEV) Charging Rate Reduction - Bear Valley Electric Service (BVES),"BVES offers three PEV time-of-use (TOU) rates to customers enrolled in
+the Transportation Electrification Pilot Program. The discounted TOU
+rate is for the super off-peak hours. For more information, including
+how to apply and eligibility, see the BVES [Rate
+Structures](https://www.bves.com/customer-service/rates-&-regulations/general-rate-schedules)
+website.
+",,,false,151,Utility/Private Incentives,"",2019-11-11 21:21:54 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12323,MN,Plug-In Electric Vehicle (PEV) Toll Credit Pilot Program  ,"The Minnesota Department of Transportation is piloting a three-year
+program to give a one-time MnPass account credit to eligible PEV drivers
+for use in MnPass toll lanes. Drivers who purchase or lease a new or
+used plug-in hybrid electric vehicle receive a \$125 credit or a \$250
+credit for an all-electric vehicle. Vehicles must be purchased or leased
+between November 1, 2019 and October 31, 2022 to be eligible for the
+credit.
+
+For more information, visit the
+[MnPass](https://www.dot.state.mn.us/mnpass/mnpassnews.html) website.
+",,,false,9,State Incentives,"",2019-12-03 16:34:46 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12324,MA,Non-Residential Electric Vehicle Supply Equipment (EVSE) Program – National Grid,"National Grid's Electric Vehicle Charging Station program provides
+non-residential customers with installation and funding support to
+install approved Level 2 or direct current (DC) fast EVSE at businesses,
+multi-unit dwellings, and workplaces. Additional terms and conditions
+apply. For more information, including application guidelines, see the
+[EV Charging
+Station](https://www.nationalgridus.com/MA-Business/Energy-Saving-Programs/Electric-Vehicle-Charging-Station-Program)
+program website.
+",,,false,22,Utility/Private Incentives,"",2019-12-10 21:43:05 UTC,,,,Vehicle Purchase and Infrastructure Development Incentives,ELEC|PHEV,OTHER,"",STATION|FLEET,""
+12326,WI,Electric Vehicle Supply Equipment (EVSE) Leasing Program – Madison Gas and Electric (MGE),"MGE residential customers can pay \$20 per month for the installation
+and maintenance of a Level 2 EVSE. Participants must sign a five-year
+service agreement. For more information, see MGE's
+[Charge\@Home](https://www.mge.com/our-environment/electric-vehicles/charge@home-program)
+website.
+",,,false,103,Utility/Private Incentives,"",2019-12-11 15:53:55 UTC,,,,"",ELEC|PHEV,LOANS|OTHER,"",IND,""
+12335,CA,Electric Vehicle Supply Equipment (EVSE) Incentives for Commercial Customers - PG&E,"Pacific Gas & Electric's (PG&E) EV Fast Charge Program offers
+competitive incentives to facilitate the installation of direct current
+(DC) fast EVSE. PG&E will cover the cost to make-ready a site for DC
+fast charging. Projects must involve the purchase of a DC fast EVSE from
+the approved [EVSE
+list](https://www.pge.com/pge_global/common/pdfs/solar-and-vehicles/your-options/clean-vehicles/charging-stations/ev-fleet-program/ev-fast-charge/ev-fast-charge-vendor-list.pdf).
+To qualify, sites must receive electric service from PG&E and the DC
+fast EVSE must be available to the public 24 hours a day, 7 days a week.
+Sites located in disadvantaged communities may receive a rebate for the
+purchase of the EVSE. Additional terms and conditions apply. For more
+information, including the application, see the PG&E [EV Fast Charge
+Program](http://www.pge.com/evfastcharge) website.
+",,,false,109,Utility/Private Incentives,"",2019-12-13 15:47:28 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12343,NM,Electric Vehicle Supply Equipment (EVSE) Funding ,"The New Mexico Environment Department (NMED) provides funding for
+eligible mitigation projects for nitrogen oxides (NOx) emissions. NMED
+will fund up to \$20,000 per eligible dual-port Level 2 EVSE
+installation, and up to 75% of the cost of a direct current (DC) fast
+charger installation. Additional requirements may apply.
+
+The program is funded by New Mexico's portion of the [Volkswagen
+Environmental Mitigation
+Trust](https://www.epa.gov/enforcement/volkswagen-clean-air-act-civil-settlement).
+Funding is not currently available (verified March 2020). For more
+information, visit the New Mexico [Volkswagen
+Settlement](https://www.env.nm.gov/air-quality/vw-settlement/) website.
+",,,false,5,State Incentives,"",2019-12-16 22:38:49 UTC,,,,Vehicle Purchase and Infrastructure Development Incentives,ELEC|PHEV,OTHER,"",STATION|FLEET|GOV|IND,""
+12349,AZ,Electric Vehicle (EV) Definition and Implementation Plan,"The Arizona Corporation Commission (Commission) defines EVs as
+transportation vehicles that use electricity for propulsion. The
+Commission issued an EV policy statement that provides guidelines on
+EVs, charging infrastructure, and transportation electrification to
+utilities the Commission regulates. The policy addresses the state of
+EVs in Arizona, EV benefits, and barriers to adoption. For more
+information, see the Commission's [EV policy
+statement](https://docket.images.azcc.gov/0000195197.pdf) and the
+[Corporation Commission](https://www.azcc.gov/) website. (Reference
+[Docket](https://edocket.azcc.gov/Search/DocketDetailSearch?docketId=21658)
+RU-00000A-18-0284 decision number 77044)
+",2019-01-16 00:00:00 UTC,,false,65,Laws and Regulations,"",2019-12-19 16:16:14 UTC,,,,"",ELEC|PHEV,"",CCEINIT,STATION|MAN|GOV|IND,""
+12351,AZ,Plug-In Electric Vehicle (PEV) Charging Rate - Tuscon Electric Power (TEP),"TEP offers a time-of-use (TOU) rate for residential customers with PEVs.
+The TOU rate guarantees participating customers a 5% rate reduction
+during off-peak periods. For more information, see the TEP [Electric
+Vehicles](https://www.tep.com/electric-vehicles/) website.
+",,,false,60,Utility/Private Incentives,"",2019-12-19 16:46:58 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12361,MO,Electric Vehicle Supply Equipment (EVSE) Incentives - Ameren Missouri,"Ameren Missouri's Charge Ahead program offers competitive incentives to
+non-residential customers for the installation of Level 2 EVSE or direct
+current (DC) fast EVSE at qualifying workplaces, multi-unit dwellings
+(MUDs), and public areas. Sites must be located in Ameren Missouri's
+service territory and require no electrical upgrades. Incentives are
+available in the following amounts, or up to 50% of total project costs,
+whichever is less:
+
+<div>
+
+  EVSE Site   Maximum Number of Level 2 Ports   Maximum Number of DC Fast Chargers   Maximum Incentive Amount
+  ----------- --------------------------------- ------------------------------------ --------------------------
+  Workplace   10                                2                                    \$90,000
+  MUD         10                                0                                    \$50,000
+  Public      6                                 2                                    \$70,000
+
+</div>
+
+Applicants may receive up to \$500,000. Incentives are available on a
+first-come, first-served basis. Applications for incentives will be
+accepted until September 30, 2022, or until funding is exhausted,
+whichever is earlier.
+
+Additional terms and conditions apply for each incentive program. For
+more information, including funding availability, see the Ameren
+Missouri [Electric Vehicles
+Website](https://www.ameren.com/missouri/company/environment-and-sustainability/electric-vehicles).
+",2019-10-27 00:00:00 UTC,,false,27,Utility/Private Incentives,"",2019-12-20 18:37:24 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12374,MD,Electric Vehicle Supply Equipment (EVSE) Charging Rate Incentive – Potomac Edison,"Potomac Edison offers residential customers the opportunity to earn 2
+cents per kilowatt-hour when charging with eligible EVSE on weekends and
+from 11pm to 6am on weekdays through the EV Driven Off-Peak Rewards
+Program. For more information, see the [EV
+Driven](https://firstenergycorp.com/content/customer/help/saving_energy/electric-vehicles/maryland-ev/maryland-ev.html)
+website.
+",,,false,8,Utility/Private Incentives,"",2020-02-03 17:51:59 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12378,IN,Plug-In Electric Vehicle (PEV) Charging Rate - Indiana Michigan Power,"Indiana Michigan Power offers a time-of-use (TOU) rate to residential
+customers for PEV. TOU rate off-peak hours are between 9pm and 7am
+Monday through Friday and all-day Saturday and Sunday. Indiana Michigan
+Power may require customers to install a metering system that is capable
+of separately tracking PEV charging. For more information, see the
+Indiana Michigan Power [Rates and
+Tariffs](https://www.indianamichiganpower.com/account/bills/rates/IandMRatesTariffsIN.aspx)
+website.
+",,,false,50,Utility/Private Incentives,"",2020-03-09 19:36:16 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12381,NJ,Energy Master Plan,"New Jersey has developed an Energy Master Plan (EMP) that will guide the
+State to achieve its goals of electrifying the transportation sector and
+achieving 100% carbon-neutral electricity generation by 2050. The EMP
+calls for decarbonization of the transportation sector through:
+
+-   Supporting the deployment of 330,000 light-duty electric vehicles
+    (EVs) by 2025;
+-   Deploying electric vehicle supply equipment (EVSE) throughout the
+    state;
+-   Creating incentives for EVSE;
+-   Educating consumers and fleet owners on EVs;
+-   Transitioning state fleet vehicles to EVs;
+-   Partnering with industry to develop incentives for medium- and
+    heavy-duty battery electric or fuel-cell vehicles; and
+-   Exploring policies that accelerate the adoption of alternative
+    fuels.
+
+For more information, see the [Energy Master Plan](https://nj.gov/emp/)
+website.
+",,,false,70,Laws and Regulations,"",2020-03-23 16:37:48 UTC,,,,"",ELEC|HY|PHEV,"",CCEINIT,STATION|AFP|FLEET|GOV|IND,""
+12383,WA,Plug-In Electric Vehicle (PEV) Charging Study Incentive - Tacoma Public Utility (TPU) ,"TPU is conducting a study to understand the charging patterns for
+residential PEVs. In exchange for completion of surveys about PEV
+charging and use, TPU customers may be eligible for an up to \$250
+incentive per year. Eligible residential customers must own or lease a
+PEV and own their own charging equipment. For more information, see the
+TPU [EV Charging
+Study](https://www.mytpu.org/community-environment/clean-renewable-energy/electric-vehicles/electric-vehicle-charging/)
+website.
+",,,false,73,Utility/Private Incentives,"",2020-04-07 15:58:31 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|IND,""
+12386,VA,Plug-In Electric Vehicle (PEV) Time-of-Use (TOU) Rate – Appalachian Power Company,"Appalachian Power Company offers a TOU rate to residential customers
+that own a PEV. Off-peak hours are 8pm to 6am on weekdays and all day on
+Saturdays and Sundays. Eligible customers must have a meter that is
+capable of separately identifying PEV usage. For more information,
+including billing rates and additional service conditions, see the
+Appalachian Power Company [Virginia Rates &
+Tariffs](https://www.appalachianpower.com/account/bills/rates/apcoratestariffsva.aspx)
+website. This service is experimental and only available until September
+12, 2023.
+",,,false,30,Utility/Private Incentives,"",2020-04-08 17:13:15 UTC,2023-09-12 00:00:00 UTC,,,"",ELEC|PHEV,OTHER,"",IND,""
+12389,UT,Residential Electric Vehicle Time of Use (TOU) Rate Pilot – Rocky Mountain Power,"Rocky Mountain Power offers a TOU rate to residential customers that own
+plug-in electric vehicles. Residential customers that participate for
+one year are eligible for a \$200 incentive. This program ends January
+1, 2022. For more information, see the Rocky Mountain Power [Utah
+Electric Vehicle
+Incentives](https://www.rockymountainpower.net/savings-energy-choices/electric-vehicles/utah-incentives.html)
+website.
+",,,false,34,Utility/Private Incentives,"",2020-04-10 16:42:09 UTC,2022-01-01 00:00:00 UTC,,,"",ELEC|PHEV,OTHER,"",IND,""
+12393,OR,State Emissions Reductions and Reporting Requirements,"Oregon will pursue transportation electrification as part of greenhouse
+gas emissions reduction targets of at least 45% below 1990 levels by
+2035, and at least 80% below 1990 levels by 2050. Select state agencies
+must report actions to reduce emissions annually. In consultation with
+appropriate state agencies, the Oregon Department of Transportation must
+submit a report to the governor on statewide transportation
+electrification infrastructure analysis by June 30, 2021. Additional
+requirements apply. (Reference [Executive
+Order](http://www.oregon.gov/gov/admin/pages/executive-orders.aspx)
+20-04, 2020)
+",2020-03-10 00:00:00 UTC,,false,105,Laws and Regulations,"",2020-04-23 00:29:48 UTC,,,,"",ELEC|HY|PHEV,"",CCEINIT,OTHER,http://www.oregon.gov/gov/admin/pages/executive-orders.aspx
+12395,OR,Plug-in Electric Vehicle (PEV) Charging Rate Incentive - Portland General Electric (PGE),"PGE offers a discounted time-of-use (TOU) electricity rate for customers
+with a PEV. The TOU rate is for charging during the off-peak period.
+Additional terms and conditions apply. For more information, see the PGE
+[Cost
+Savings](https://www.portlandgeneral.com/residential/electric-vehicles-charging-stations/cost-savings/)
+website.
+",,,false,45,Utility/Private Incentives,"",2020-05-01 13:20:23 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|IND,""
+12396,ID,Commercial Electric Vehicle Supply Equipment (EVSE) Incentive - Idaho Power,"Eligible Idaho Power business customers may apply for funding to install
+EVSE for electric passenger vehicles, forklifts, or other transportation
+technologies. Incentives are offered in the following amounts for the
+purchase and installation of EVSE:
+
+  Fleet EVSE Application                                                              Maximum Amount                                                       Limit per Customer
+  ----------------------------------------------------------------------------------- -------------------------------------------------------------------- --------------------
+  Passenger vehicles                                                                  50% of project costs, up to \$7,500 per site for Level 1 or 2 EVSE   \$15,000
+  Forklifts                                                                           50% of project costs, up to \$7,500 per site for EVSE                \$7,500
+  Buses, refrigerated trucking, refuse trucks, and airport ground support equipment   50% of project costs, up to \$20,000 per site for EVSE               \$20,000
+
+Additional terms and conditions apply. For more information, visit the
+Idaho Power [EVSE Incentive
+Offering](https://www.idahopower.com/idaho-power-electric-vehicle-supply-equipment-incentive-offering/)
+website.
+",,,false,21,Utility/Private Incentives,"",2020-05-08 16:57:14 UTC,,,,"",ELEC|PHEV,OTHER|RBATE,"",STATION|FLEET,""
+12404,FL,State Highway Transportation Plan,"The Department of Transportation, the Public Service Commission, and the
+Office of Energy will develop a plan to install electric vehicle supply
+equipment (EVSE) along the state highway system. The plan must include
+recommendations for EVSE legislation and be delivered to the governor
+and Florida legislature by July 1, 2021.
+
+(Reference Florida [Senate Bill](https://www.flsenate.gov/) 7018, 2020)
+",2020-06-10 00:00:00 UTC,,false,49,Laws and Regulations,"",2020-05-11 18:19:32 UTC,,,,"",ELEC|PHEV,"",CCEINIT,GOV,""
+12406,VA,Electric Vehicle (EV) Rebate Program Working Group,"The Virginia Department of Mines, Minerals, and Energy in collaboration
+with the Department of Environmental Quality, Department of Taxation,
+and the Department of Motor Vehicles will convene a working group to
+evaluate the feasibility of an EV rebate program. The working group
+will:
+
+-   Review methods for structuring and administering an EV rebate
+    program;
+-   Review funding options;
+-   Evaluate vehicle sales data in states that offer EV rebates,
+-   Identify metrics for evaluating an EV rebate program for incentives
+    under \$4,500, and;
+-   Recommend incentives for low-income individuals.
+
+The working group must submit a report with program recommendations to
+the Virginia General Assembly by November 1, 2020. The EV rebate program
+must be operational by December 30, 2021.
+
+(Reference [House Bill](https://lis.virginia.gov/000/sab.htm) 717, 2020)
+",2020-04-09 00:00:00 UTC,,false,18,Laws and Regulations,"",2020-05-11 18:42:40 UTC,,2021-12-30 00:00:00 UTC,,"",ELEC|PHEV,OTHER,"",GOV,https://lis.virginia.gov/000/sab.htm
+12417,CT,Public Plug-In Electric Vehicle Charging Rate Pilot Program - Eversource,"Eversource offers a voluntary rate program for public, separately
+metered, Level 2 or direct current (DC) fast electric vehicle supply
+equipment. Eligibility for this rate is subject to the review and
+approval of Eversource. For more information, visit the [Electric
+Vehicle Rebate
+Program](https://www.eversource.com/content/ct-c/business/my-account/billing-payments/about-your-bill/rates-tariffs/electric-vehicle-rate-program)
+website.
+",,,true,36,Utility/Private Incentives,"",2020-07-07 18:41:33 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION|OTHER,""
+12419,NY,Vehicle Emissions Reduction and Electric Vehicle Supply Equipment (EVSE) Project Funding,"The New York State Department of Environmental Conservation (NYSEDEC)
+provides funding for diesel vehicle replacement projects detailed in the
+[Clean Transportation NY Beneficiary Mitigation Plan
+(Plan)](https://www.dec.ny.gov/chemical/109784.html). The projects are
+funded by New York's portion of the [Volkswagen (VW) Environmental
+Mitigation
+Trust](https://www.epa.gov/enforcement/volkswagen-clean-air-act-civil-settlement).
+The Plan provides funding for the replacement or repower of diesel
+medium- and heavy-duty vehicles, including Class 8 local freight or port
+drayage trucks, Class 4-8 school, shuttle, or transit buses, and Class
+4-7 local freight trucks. The Plan also provides funding for the
+all-electric repower or replacement of airport ground support equipment,
+forklifts, and port cargo handling equipment, as well as light-duty
+EVSE. For more information, including the funding opportunity list and
+funding priorities, see the NYSDEC [VW Funding for Diesel Replacement
+and EVSE Projects](https://www.dec.ny.gov/chemical/118556.html) website.
+",,,true,10,State Incentives,"",2020-07-08 17:44:14 UTC,,,,"",AFTMKTCONV|ELEC|HEV|HY|NG|PHEV|LPG,OTHER,"",STATION|FLEET|GOV|OTHER,""
+12420,NY,Electric Vehicle Supply Equipment (EVSE) Incentive Program - Con Edison,"Owners of direct current (DC) fast EVSE that meet all of the following
+requirements are eligible for an annual per EVSE connector incentive:
+
+-   Minimum power capacity of 50 kilowatts (kW) in a single- or
+    parallel-output configuration.
+-   Connector using a commonly accepted non-proprietary standard, or a
+    proprietary standard in the case where it is co-located with a
+    commonly accepted non-proprietary standard.
+-   Publicly accessible, without restriction or fees for parking.
+-   Stations that received a building permit and/or provided payment for
+    utility service excess distribution facilities after March 1, 2019.
+
+The full incentive is available for plugs rated with power capacity of
+75 kW and higher, and a 60% incentive is available for plugs rated 50 kW
+to 74 kW. Payments are made annually from the date equipment is placed
+in service, through 2025.
+
+Incentives are available on a first-come, first-served basis. Additional
+terms and conditions apply.
+
+For more information, including annual incentive amounts, see the Con
+Edison [Electric Vehicle Fast Charging Per-Plug
+Incentive](https://www.coned.com/en/our-energy-future/technology-innovation/electric-vehicles/electric-vehicle-fast-charging-per-plug-incentive)
+website.
+",,,true,47,Utility/Private Incentives,"",2020-07-08 17:59:24 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
+12423,HI,Vehicle Performance Contracts,"State agencies must identify and evaluate energy efficiency program
+contracts to implement, including vehicle and related infrastructure
+programs, as well as vehicle maintenance or fuel cost savings as they
+relate to a fleet's energy efficiency program. Energy performance
+contracts may include installation of electric vehicle supply equipment
+infrastructure. (Reference [Hawaii Revised
+Statutes](https://www.capitol.hawaii.gov/) 249-31).
+",,,true,11,Laws and Regulations,"",2020-07-09 21:58:34 UTC,,,,"",ELEC|PHEV,"",CCEINIT,GOV,https://www.capitol.hawaii.gov/
+12424,DE,Plug-In Electric Vehicle (PEV) Charging Rate – Delmarva Power,"Delmarva Power offers a time-of-use rate option to residential customers
+that own PEVs. For more information, see the Delmarva Energy [PEV
+Programs](https://www.delmarva.com/SmartEnergy/InnovationTechnology/Pages/ElectricVehicles/ChargingAndRates.aspx)
+website.
+",,,true,8,Utility/Private Incentives,"",2020-07-10 14:55:16 UTC,,,,"",ELEC|PHEV,OTHER,"",IND,""
+12437,WI,Climate Change Task Force  ,"The Governor will convene a Climate Change Task Force (Task Force) to
+advise the Governor in developing a mitigation strategy and
+incorporating recommendations, including transportation, into existing
+plans. The Task Force will submit a preliminary report of its findings
+and recommendations to the Governor by August 31, 2020. For more
+information, see the Wisconsin Task Force website. (Reference [Executive
+Order](https://evers.wi.gov/Pages/Newsroom/Executive-Orders.aspx) 52,
+2020)
+",2019-10-17 00:00:00 UTC,,true,39,Laws and Regulations,"",2020-07-13 01:25:33 UTC,,,,"",ELEC,"",CCEINIT,GOV,""
+12444,ME,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,42,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12445,MD,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,54,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12446,MA,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,35,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12447,NH,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,22,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12448,NJ,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,23,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12449,NY,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,38,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12450,PA,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,44,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12451,RI,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,35,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12452,VT,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,39,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12453,VA,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,97,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12454,CT,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,65,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12455,DE,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,38,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12456,DC,Regional Transportation and Climate Initiative (TCI),"Connecticut, Delaware, District of Columbia (D.C.), Maine, Maryland,
+Massachusetts, New Hampshire, New Jersey, New York, Pennsylvania, Rhode
+Island, Vermont, and Virginia signed a [Declaration of
+Intent](https://www.transportationandclimate.org/sites/default/files/TCI-declaration.pdf)
+to create the TCI, a regional initiative to improve transportation,
+develop a clean energy economy, and reduce carbon emissions and air
+pollutants from the transportation sector. The signatory states and D.C.
+agree to explore and develop policies and programs that result in
+greater energy efficiency of regional transportation systems and reduce
+emissions. Additionally, states support the deployment of clean vehicles
+and fueling infrastructure, such as electric vehicle supply equipment,
+to maximize the economic opportunities and emissions reductions. For
+more information, see the
+[TCI](https://www.transportationandclimate.org/) website.
+",,,false,31,Laws and Regulations,"",,,,,"",ELEC|PHEV,"",AIRQEMISSIONS|CCEINIT,GOV|OTHER,""
+12483,MO,Electric Vehicle Supply Equipment (EVSE) Highway Corridor Incentives - Ameren Missouri,"Ameren Missouri offers non-residential customers incentives to install
+EVSE along highway corridors. Eligible sites must have two direct
+current (DC) fast EVSE and two Level 2 EVSE. Each site is eligible for
+incentives up to \$240,000, and sites with planned DC fast EVSE with a
+capacity of 100 kilowatts or greater are eligible for incentives up to
+\$360,000. Applications for incentives will be accepted until December
+31, 2023, or until funding is exhausted, whichever is earlier.
+
+Additional terms and conditions apply for each incentive program. For
+more information, including funding availability, see the Ameren
+Missouri [Electric Vehicles
+Website](https://www.ameren.com/missouri/company/environment-and-sustainability/electric-vehicles).
+",2019-10-27 00:00:00 UTC,,true,28,Utility/Private Incentives,"",2020-09-10 19:51:07 UTC,,,,"",ELEC|PHEV,OTHER,"",STATION,""
