@@ -1,4 +1,3 @@
-console.log("hello world!");
 // Adding tile layer
 var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/{y}?access_token={accessToken}", {
   attribution: "© <a href='https://www.mapbox.com/about/maps/'>Mapbox</a> © <a href='http://www.openstreetmap.org/copyright'>OpenStreetMap</a> <strong><a href='https://www.mapbox.com/map-feedback/' target='_blank'>Improve this map</a></strong>",
@@ -9,7 +8,6 @@ var lightmap = L.tileLayer("https://api.mapbox.com/styles/v1/{id}/tiles/{z}/{x}/
   accessToken: API_KEY
 })
   
-console.log("I am here");
 // Initialize all of the LayerGroups we'll be using
 var layers = {
   CHARGING_STATION: new L.LayerGroup(),
@@ -35,31 +33,27 @@ var overlays = {
   "Carbon Emissions": layers.CARBON_EMISSIONS
 };
 
-
 // Create a control for our layers, add our overlay layers to it
 L.control.layers(null, overlays).addTo(map);
 
-// Load in geojson data
-//var geoData = "static/data/alt_fuel_stations.json";
-const geoData = "/charge_stations"
-//var geoData = "alt_fuel_stations.json";
-console.log("url: ", geoData);
-console.log("test");
-// Grab data with d3
-d3.json(geoData, function(response) {
-     console.log( "in d3");
+// Load in data from url
+const url = "/stations";
 
-    console.log("data: " ,response);
-    
+// Grab data with d3
+d3.json(url, function(response) {
+  
     // Create a new marker cluster group
     var markers = L.markerClusterGroup();
-
     // Loop through data
-    for (var i = 0; i < response.fuel_stations.length; i++) {
+    for (var i = 0; i < response.length; i++) {
   
       // Set the data location property to a variable
-      var latitude = response.fuel_stations[i].latitude;
-      var longitude = response.fuel_stations[i].longitude;
+      var latitude = response[i].latitude;
+      var longitude = response[i].longitude;
+      var station = response[i].station_name;
+      console.log("latittude:", latitude);
+      console.log("longitude: ", longitude);
+      console.log("station: ", station);
 
       var location = [];
       location.push(latitude)
@@ -67,7 +61,7 @@ d3.json(geoData, function(response) {
   
       // Add a new marker to the cluster group and bind a pop-up
       markers.addLayer(L.marker([latitude, longitude])
-        .bindPopup(response.fuel_stations[i].station_name));
+        .bindPopup(response[i].station_name));
       }
   
   // Add our marker cluster layer to the map
@@ -75,16 +69,11 @@ d3.json(geoData, function(response) {
 
 });
 
-
-
-
 // Load in geojson data
 var stateData = "static/data/gz_2010_us_040_00_500k (1).json";
 
 // Grab data with d3
 d3.json(stateData, function(data) {
-
-  console.log(data)
 
     // Create a new choropleth layer
     geojson = L.choropleth(data, {
