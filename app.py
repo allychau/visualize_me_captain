@@ -1,54 +1,37 @@
-from flask import Flask, jsonify, request
-from flask import render_template
-from flask_sqlalchemy import SQLAlchemy
-import sqlite3 as sql
+import flask
+from flask import Flask, jsonify, Response, render_template
+from flask import redirect
+import pymongo
+from pymongo import MongoClient
+from bson import ObjectId, json_util
+import json
 
-import sqlalchemy
-from sqlalchemy.ext.automap import automap_base
-from sqlalchemy.orm import Session
-from sqlalchemy import create_engine
-
-import pandas as pd
-
-engine = create_engine("sqlite:///data/db.sqlite", echo=True)
-
-# reflect an existing database into a new model
-Base = automap_base()
-
-# reflect the tables
-Base.prepare(engine, reflect=True)
+cluster = pymongo.MongoClient("mongodb+srv://group2:group2@cluster0.mpjcg.mongodb.net/<dbname>?retryWrites=true&w=majority")
+db = cluster["simply_recipe"]
+collection = db["recipes_collection"]
 
 app = Flask(__name__)
 
-
-#################### Flask routes #############################
-
-# End point for landing page
+# This route returns the team's index page
 @app.route("/")
-def index():
-    return render_template("index.html")
+def home():
+    return render_template('index.html')
 
-#Route for map.  Charging stations markers and emission chloropleth
-@app.route("/map")
-def map():
-   return render_template("map.html")
+# This route returns heesung's plot page of the team's website
+@app.route("/heesung/")
+def heesung():
+    return redirect("https://heesung80.github.io/recipe/")
 
-# Route get all the Electric Vehicle Charging Stations data.
-# Read data from Stations table in json format and display it to the browser.
-@app.route("/stations")
-def getAllStations():
-    conn = engine.connect()
-    query = f"select * from Stations"
-    df = pd.read_sql(query, conn)
-    stations = df.to_json(orient="records")
-    
-    return stations
+# This route returns caitlin's plot page of the team's website
+@app.route("/caitlin")
+def caitlin_plots():
+    return render_template('inner-page_caitlin.html')
 
-#@app.route('/chart')
-#def getBarChart():
-#def getLineChart():
-#    return jsonify(chart.html)
+# This route returns all the recipe_collection data in JSON.
+@app.route("/recipes", methods=["GET"])
+def get_recipes():
+    all_recipes = list(collection.find({}))
+    return json.dumps(all_recipes, default=json_util.default)
 
-if __name__ == '__main__':
-    app.run(debug=True)
-
+if __name__ == "__main__":
+    app.run()
