@@ -7,9 +7,12 @@ Craig Nowakowski, Raymond Garskovas, Allyson Chau and Varun Kaushik
 For our project, we plan to track the growth of EV charge stations across the United States with YoY State and National CO2 emissions/temperature data. 
 
 ### Data Sources
-State temp change (scraping): 'https://science2017.globalchange.gov/chapter/6/'
+State temp change (scraping): https://science2017.globalchange.gov/chapter/6/
+
 US National Emissions: https://www.kaggle.com/yoannboyere/co2-ghg-emissionsdata
+
 US State Emissions: https://www.eia.gov/environment/emissions/state/
+
 EV Charge Stations: https://www.eia.gov/environment/emissions/state/
 
 ### Background
