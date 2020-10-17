@@ -1,6 +1,6 @@
-const url = "../static/data/alt_fuel_stations.json";
+//const url = "../static/data/alt_fuel_stations.json";
 
-d3.json(url).then((importedData) => {
+d3.json("/stations").then((importedData) => {
     
   console.log(importedData);
 
@@ -8,19 +8,21 @@ d3.json(url).then((importedData) => {
 
   // // Establish datasets
   
+  
   // // filter metadata for state
-  var resultArray = importedData.fuel_stations.filter(fuelObj => fuelObj.state == state);
-  console.log(resultArray)
+
+  var resultArray = importedData.filter(fuelObj => fuelObj.state == state);
+  console.log("resultArray: ", resultArray)
 
   // get all the locations from that state
   var open_date = resultArray.map(state => state.open_date);
-  console.log(open_date)
+  console.log("open_date: ", open_date)
 
   number_of_stations = [];
   open_dates = []
   var x = 0
     for(let i = 0; i < resultArray.length; i++){
-      console.log(open_date)
+      //console.log(open_date)
 
       
       if (resultArray[i].open_date == null) {
@@ -29,12 +31,13 @@ d3.json(url).then((importedData) => {
         x = 1    
         number_of_stations.push(x);
         date = resultArray[i].open_date
-        year = date.slice(0, 4)
+        year = date.slice(-2)
         open_dates.push(year)
 
       }
     }
-
+    console.log(open_dates);
+    console.log(number_of_stations);
   var trace1 = {
     type: "bar",
     name: name,
@@ -67,7 +70,7 @@ d3.json(url).then((importedData) => {
 
 
 // Retrieve data from the CSV file and execute everything below
-d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
+d3.json("/emissions").then(function(stateData, err) {
   if (err) throw err;
 
 
@@ -118,12 +121,13 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
   });
 
 
-
+  console.log(stateData);
   var resultArray = stateData.filter(sampleObj => sampleObj.State == state);
   console.log(resultArray)
 
  
   Year_1990 = resultArray[0].Year_1990;  
+  console.log("Year: ",Year_1990 );
   Year_1991 = resultArray[0].Year_1991; 
   Year_1992 = resultArray[0].Year_1992;
   Year_1993 = resultArray[0].Year_1993;  
@@ -207,9 +211,6 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
 
     Plotly.newPlot("bar", data, layout);
 
-
-
-
     // // bubble chart
     // var trace1 = {
     //   x: state_names,
@@ -251,10 +252,6 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
     
     // Plotly.newPlot('bubble', data, layout);
 
-
-
-
-
      // populate dropdown with data
      var dropdown = d3.select("#selDataset");
 
@@ -276,20 +273,10 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
  
  });
 
-
-
-
-
-
-
-
-
-
-
  function optionChanged() {
 
 
-  d3.json("../static/data/alt_fuel_stations.json").then((importedData) => {
+  d3.json("/stations").then((importedData) => {
     
   // Use D3 to select the dropdown menu
   var dropdownMenu = d3.select("#selDataset");
@@ -302,7 +289,7 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
     // // Establish datasets
     
     // // filter metadata for state
-    var resultArray = importedData.fuel_stations.filter(fuelObj => fuelObj.state == state);
+    var resultArray = importedData.filter(fuelObj => fuelObj.state == state);
     console.log(resultArray)
    
     number_of_stations = [];
@@ -317,7 +304,7 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
           x = 1    
           number_of_stations.push(x);
           date = resultArray[i].open_date
-          year = date.slice(0, 4)
+          year = date.slice(-2)
           open_dates.push(year)
         }
 
@@ -328,14 +315,7 @@ d3.csv("../static/data/state_emissions.csv").then(function(stateData, err) {
 
       }})
 
-
-
-
-
-
-
-
-  d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
+  d3.json("/emissions").then(function(stateData, err) {
     if (err) throw err;
 
 
