@@ -68,34 +68,3 @@ d3.json(url, function(response) {
   map.addLayer(markers);
 
 });
-
-// Load in geojson data
-var stateData = "static/data/gz_2010_us_040_00_500k (1).json";
-
-// Grab data with d3
-d3.json(stateData, function(data) {
-
-    // Create a new choropleth layer
-    geojson = L.choropleth(data, {
-
-      // Define what  property in the features to use
-      valueProperty: "MHI2016",
-  
-      // Set color scale
-      scale: ["#ffffb2", "#b10026"],
-  
-      // Number of breaks in step range
-      steps: 10,
-  
-      // q for quartile, e for equidistant, k for k-means
-      mode: "q",
-      style: {
-        // Border color
-        color: "#fff",
-        weight: 1,
-        fillOpacity: 0.8
-      },
-  
-
-}).addTo(map);
-});
