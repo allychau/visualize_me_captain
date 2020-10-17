@@ -20,7 +20,6 @@ Base.prepare(engine, reflect=True)
 
 app = Flask(__name__)
 
-
 #################### Flask routes #############################
 
 # End point for landing page
@@ -28,39 +27,35 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-#Route for map.  Charging stations markers and emission chloropleth
+# Route for map.  Charging stations markers and emission chloropleth
 @app.route("/map")
 def map():
    return render_template("map.html")
 
-@app.route("/bubble")
-def bubble():
-    return render_template("bubble.html")
+@app.route("/chart")
+def chart():
+   return render_template("chart.html")
 
 # Route get all the Electric Vehicle Charging Stations data.
-# Read data from Stations table in json format and display it to the browser.
+# Read data from Stations table in json format and return it to the browser.
 @app.route("/stations")
 def getAllStations():
     conn = engine.connect()
-    query = f"select station_name,latitude,longitude from Stations"
+    query = f"select state,station_name, latitude, longitude, open_date from Stations"
     df = pd.read_sql(query, conn)
     stations = df.to_json(orient="records")
     
     return stations
+    #return render_template("stations.html")
 
 @app.route("/emissions")
 def getAllEmissions():
     conn = engine.connect()
-    query = f"select station_name,latitude,longitude from Emissions"
+    query = f"select * from States_co2"
     df = pd.read_sql(query, conn)
     emissions = df.to_json(orient="records")
     
     return emissions
-
-@app.route('/chart')
-def getBarChart():
-#def getLineChart():
-   return jsonify(chart.html)
 
 if __name__ == '__main__':
     app.run(debug=True)
