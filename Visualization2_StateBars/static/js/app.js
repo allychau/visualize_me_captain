@@ -1,5 +1,75 @@
 
+// Load in geojson data
+var geoData = "static/data/alt_fuel_stations.json";
 
+var geojson;
+
+
+
+d3.json("static/data/alt_fuel_stations.json").then((importedData) => {
+    
+  console.log(importedData);
+
+
+  var state = "AL"
+
+  // // Establish datasets
+  
+  // // filter metadata for state
+  var resultArray = importedData.fuel_stations.filter(fuelObj => fuelObj.state == state);
+  console.log(resultArray)
+
+  // get all the locations from that state
+  var open_date = resultArray.map(state => state.open_date);
+  console.log(open_date)
+
+  number_of_stations = [];
+  open_dates = []
+  var x = 0
+    for(let i = 0; i < resultArray.length; i++){
+      console.log(open_date)
+
+      
+      if (resultArray[i].open_date == null) {
+
+      } else {
+        x = 1    
+        number_of_stations.push(x);
+        date = resultArray[i].open_date
+        year = date.slice(0, 4)
+        open_dates.push(year)
+
+      }
+    }
+
+  var trace1 = {
+    type: "bar",
+    name: name,
+    x: open_dates,
+    y: number_of_stations,
+    line: {
+      color: "#17BECF"
+    }
+  };
+
+  var data = [trace1];
+
+  var layout = {
+    title: `Number of charging stations built in state by year`,
+    xaxis: {
+      // range: [startDate, endDate],
+      type: "date"
+    },
+    yaxis: {
+      autorange: true,
+      type: "linear"
+    }
+  };
+
+  Plotly.newPlot("gauge", data, layout);
+
+
+});
 
 
 
@@ -136,7 +206,10 @@ d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
     var data = [trace1];
 
     var layout = {
-      title: `Yearly emissions for state`,
+      title: `Yearly Co2 emissions for state by year`,
+      yaxis: {
+        range: [0, 750],
+      }
     };
 
     Plotly.newPlot("bar", data, layout);
@@ -144,27 +217,46 @@ d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
 
 
 
-    // bubble chart
-    var trace1 = {
-      x: state_names,
-      y: state_emission,
-      mode: 'markers',
-      marker: {
-        size: state_emission,
-        color: state_names,
-      }
-    };
+    // // bubble chart
+    // var trace1 = {
+    //   x: state_names,
+    //   y: state_emission,
+    //   mode: 'markers',
+    //   marker: {
+    //     size: state_emission,
+    //     color: state_emission,
+    //   }
+    // };
     
-    var data = [trace1];
+    // var data = [trace1];
     
-    var layout = {
-      title: 'Size of samples for OTUs',
-      showlegend: true,
-      height: 1000,
-      width: 1000
-    };
+    // var layout = {
+    //   title: 'Size of emissions by State',
+    //   showlegend: true,
+    //   height: 1000,
+    //   width: 1750,
+    //   xaxis: {
+    //     autotick: false,
+    //     ticks: 'outside',
+    //     tick0: 0,
+    //     dtick: 1,
+    //     ticklen: 8,
+    //     tickwidth: 5,
+    //     tickcolor: '#000'
+    //   },
+    //   yaxis: {
+    //     autotick: false,
+    //     ticks: 'outside',
+    //     range: [0, 750],
+    //     tick0: 0,
+    //     dtick: 25,
+    //     ticklen: 8,
+    //     tickwidth: 8,
+    //     tickcolor: '#000'
+    //   }
+    // };
     
-    Plotly.newPlot('bubble', data, layout);
+    // Plotly.newPlot('bubble', data, layout);
 
 
 
@@ -191,7 +283,65 @@ d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
  
  });
 
+
+
+
+
+
+
+
+
+
+
  function optionChanged() {
+
+
+  d3.json("static/data/alt_fuel_stations.json").then((importedData) => {
+    
+  // Use D3 to select the dropdown menu
+  var dropdownMenu = d3.select("#selDataset");
+  // Assign the value of the dropdown menu option to a variable
+  var dataset = dropdownMenu.property("value");
+
+  var state = dataset
+
+  
+    // // Establish datasets
+    
+    // // filter metadata for state
+    var resultArray = importedData.fuel_stations.filter(fuelObj => fuelObj.state == state);
+    console.log(resultArray)
+   
+    number_of_stations = [];
+    open_dates = []
+    var x = 0
+      for(let i = 0; i < resultArray.length; i++){
+  
+        
+        if (resultArray[i].open_date == null) {
+  
+        } else {
+          x = 1    
+          number_of_stations.push(x);
+          date = resultArray[i].open_date
+          year = date.slice(0, 4)
+          open_dates.push(year)
+        }
+
+          // restyle the charts with the new values
+  Plotly.restyle("gauge", "x", [open_dates]);
+  Plotly.restyle("gauge", "y", [number_of_stations]);
+  Plotly.restyle("gauge", "title", state);
+
+      }})
+
+
+
+
+
+
+
+
   d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
     if (err) throw err;
 
@@ -200,8 +350,6 @@ d3.csv("static/data/state_emissions.csv").then(function(stateData, err) {
   var dropdownMenu = d3.select("#selDataset");
   // Assign the value of the dropdown menu option to a variable
   var dataset = dropdownMenu.property("value");
-  console.log(dataset)
-
   var state = dataset
 
   // parse data
