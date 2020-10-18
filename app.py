@@ -36,6 +36,10 @@ def map():
 def chart():
    return render_template("chart.html")
 
+@app.route("/national")
+def nationalEmission():
+   return render_template("chartJSYear.html")
+
 # Route get all the Electric Vehicle Charging Stations data.
 # Read data from Stations table in json format and return it to the browser.
 @app.route("/stations")
