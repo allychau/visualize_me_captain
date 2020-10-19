@@ -38,7 +38,7 @@ d3.json(url).then((stateData) => {
         tick0: 0,
         dtick: 1,
         ticklen: 8,
-        tickwidth: 5,
+        tickwidth: 2,
         tickcolor: '#000'
       },
       yaxis: {
@@ -46,9 +46,9 @@ d3.json(url).then((stateData) => {
         ticks: 'outside',
         range: [0, 1280],
         tick0: 0,
-        dtick: 20,
+        dtick: 75,
         ticklen: 8,
-        tickwidth: 5,//8,
+        tickwidth: 2,//8,
         tickcolor: '#000'
       }
     };
