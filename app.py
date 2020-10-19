@@ -27,7 +27,7 @@ app = Flask(__name__)
 def index():
     return render_template("index.html")
 
-# Route for map.  Charging stations markers and emission chloropleth
+# Route for map
 @app.route("/map")
 def map():
    return render_template("map.html")
@@ -40,7 +40,11 @@ def chart():
 def nationalEmission():
    return render_template("chartJSYear.html")
 
-# Route get all the Electric Vehicle Charging Stations data.
+@app.route("/bubble")
+def bubble():
+   return render_template("bubble.html")
+
+# Route to get all the Electric Vehicle Charging Stations data.
 # Read data from Stations table in json format and return it to the browser.
 @app.route("/stations")
 def getAllStations():
