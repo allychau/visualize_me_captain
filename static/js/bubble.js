@@ -44,11 +44,11 @@ d3.json(url).then((stateData) => {
       yaxis: {
         autotick: false,
         ticks: 'outside',
-        range: [0, 750],
+        range: [0, 1280],
         tick0: 0,
-        dtick: 25,
+        dtick: 20,
         ticklen: 8,
-        tickwidth: 8,
+        tickwidth: 5,//8,
         tickcolor: '#000'
       }
     };
