@@ -22,7 +22,13 @@ d3.json(url).then((stateData) => {
 
     var data = [trace1];
     var layout = {
-      title: 'Size of emissions by State',
+      title: {
+         text: 'Size of emissions by State',
+         font: { 
+         family: 'sans-serif',
+         size: 30
+         },
+        },
       showlegend: true,
       height: 1000,
       width: 1750,
