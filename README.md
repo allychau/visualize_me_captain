@@ -20,7 +20,7 @@ Rising average global temperatures since pre-industrial times are threatening cu
 
 This repository sources, tracks, and analyzes data from EIA, Kaggle to quantify the rise in temperatures, CO2 emissions and how they have influenced the rise of EV infrastructure, specifically the number of charge stations that have been installed across the states within the USA.  
 
-### Project Report:
+### Key Project Findings:
 CO2 emissions from states (and nationally) peaked in 2007 and has since been trending down
 The network of EV charging stations is expansive and continues to grow
 Some states, such as California which is the leader in number of EV charging stations, intend to phase out all new gas vehicle sales by 2035
