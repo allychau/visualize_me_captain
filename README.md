@@ -18,9 +18,9 @@ EV Charge Stations: https://www.eia.gov/environment/emissions/state/
 ### Background
 Rising average global temperatures since pre-industrial times are threatening current livelihoods. Some of the consequences of rising temperatures include rising sea-levels, climate migration, amplified natural disasters, food/water shortages, and increased probability of disease spread. One way to combat/mitigate the impacts of climate change is to shift transportation medium to electric power from fossil-fuel power. While this change in itself is not a complete solution to climate change, it nonetheless remains a key element in a holistic approach to fighting climate change. 
 
-This repository sources, tracks, and analyzes data from EIA, Kaggle to quantify the rise in temperatures and how that has influenced the rise of EV infrastructure, specifically the number of charge stations that have been installed across the states within the United States.  
+This repository sources, tracks, and analyzes data from EIA, Kaggle to quantify the rise in temperatures, CO2 emissions and how they have influenced the rise of EV infrastructure, specifically the number of charge stations that have been installed across the states within the USA.  
 
 ### Project Report:
-
-
-
+CO2 emissions from states (and nationally) peaked in 2007 and has since been trending down
+The network of EV charging stations is expansive and continues to grow
+Some states, such as California which is the leader in number of EV charging stations, intend to phase out all new gas vehicle sales by 2035
