@@ -2,6 +2,7 @@ Flask==1.1.2
 Flask-PyMongo==2.3.0
 Flask-SQLAlchemy==2.4.4
 Jinja2==2.11.2
+MarkupSafe==1.1.1
 psycopg2 @ file:///opt/concourse/worker/volumes/live/f70b797f-1fea-4855-7694-330b8c27138c/volume/psycopg2_1594305349650/work
 seaborn==0.10.1
 selenium==3.141.0
